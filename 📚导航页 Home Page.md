@@ -35,20 +35,7 @@ cover:
 ## 快捷操作
 
 ```button
-name 去论坛，蝙蝠侠！
-type link
-action https://forum.obsidian.md/
-```
-```button
-name 打开前一天的日记
-type command
-action Periodic Notes: 打开前一天的日记
-```
-
-^button-forum
-
-```button
-name 🧳主线
+name 📷打开/创建qzone
 type command
 action QuickAdd: 🧳 添加主线
 class grad_tiny_button
