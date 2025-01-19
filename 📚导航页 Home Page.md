@@ -47,6 +47,15 @@ action Periodic Notes: 打开前一天的日记
 
 ^button-forum
 
+```button
+name 🧳主线
+type command
+action QuickAdd: 🧳 添加主线
+class grad_tiny_button
+customColor #e64553
+```
+^button-main
+
 ## 概览
 
 日记模板：[[【日记模板】ZONE]]
