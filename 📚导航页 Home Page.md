@@ -32,11 +32,26 @@ cover:
 > )
 > ```
 
+## 快捷操作
+
+```button
+name 去论坛，蝙蝠侠！
+type link
+action https://forum.obsidian.md/
+```
+```button
+name 打开前一天的日记
+type command
+action Periodic Notes: 打开前一天的日记
+```
+
+^button-forum
+
 ## 概览
 
 日记模板：[[【日记模板】ZONE]]
 
-绿墙/热力图/活动历史图/贡献图。插件contribution-graph由国人制作。由youtube   
+绿墙/热力图/活动历史图/贡献图。插件contribution-graph由国人制作。由youtube 
 Marco Serafini频道的影片推荐。
 
 ```contributionGraph
