@@ -78,6 +78,7 @@ let timePeriod = hour >= 0 && hour < 6 ? "凌晨" : hour >= 6 && hour < 12 ? "�
 dv.span(`<b>当前时间：${formattedTime}。假设在郑州，那么现在的季节：${season}，时间段：${timePeriod}。</b><br>（统计代码由deepseek生成。我与cursor扯皮三个小时，没结果，真傻逼。）`);
 ```
 
+
 ```dataviewjs
 // 获取当前时间
 const now = new Date();
@@ -99,7 +100,7 @@ const totalDaysInYear = isLeapYear ? 366 : 365;
 const pastPercentage = ((pastDays / totalDaysInYear) * 100).toFixed(2);
 
 // 输出结果
-dv.paragraph(`假设今年1月1日为第一周，今天是第 **${currentWeek}** 周，也就是说过去了 **${pastPercentage}%**。`);
+dv.paragraph(`假设今年1月1日为第一周，今天是第 **${currentWeek}** 周，也就是说今年已经过去了 **${pastPercentage}%**。`);
 ```
 
 ```dataviewjs
