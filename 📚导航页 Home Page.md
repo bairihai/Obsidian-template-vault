@@ -34,14 +34,7 @@ cover:
 
 ## 快捷操作
 
-```button
-name 📷打开/创建qzone
-type command
-action QuickAdd: 🧳 添加主线
-class grad_tiny_button
-customColor #e64553
-```
-^button-main
+
 
 ## 概览
 
