@@ -35,9 +35,11 @@ cover:
 
 ## 快捷操作
 
-【快捷操作被封装在buttons插件的command中，
+【快捷操作被封装在buttons插件的command中，请在阅读视图下查看】
 
-`button-zone`
+立刻创建一篇说说：`button-zone` 
+
+前往各种有用的论坛。有用。也许吧：`button-pkmer` `button-Obsidian` 
 
 
 ## 概览
