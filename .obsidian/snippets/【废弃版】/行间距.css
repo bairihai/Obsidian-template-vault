@@ -1,0 +1,18 @@
+
+/* preview page */
+
+.markdown-preview-view.is-readable-line-width .markdown-preview-section,
+
+.markdown-source-view.is-readable-line-width .CodeMirror,
+
+.markdown-preview-view.is-readable-line-width .markdown-preview-sizer {
+
+  line-height: 999;
+
+  font-family: var(--font-family-major);
+
+  text-align: left;
+
+}
+
+/* 调整line-height: 2;里的数字即可调整行间距 */

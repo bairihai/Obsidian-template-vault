@@ -1,0 +1,9 @@
+/* 编辑模式下的行距 */
+.cm-line {
+    line-height: 1.5em;
+}
+
+/* 预览模式下的行距 */
+.markdown-preview-view p{	
+    line-height: 1.5em;
+}

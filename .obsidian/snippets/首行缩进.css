@@ -1,0 +1,9 @@
+/*编辑模式 */
+.markdown-source-view.mod-cm6 .cm-line:not(.HyperMD-header){
+  text-indent: 2em;
+  }
+
+  /* 阅读模式 */
+.markdown-preview-section p{
+  text-indent: 2em;
+  }

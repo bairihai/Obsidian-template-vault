@@ -1,0 +1,26 @@
+/* 段间距/编辑模式 暂不启用 */
+
+/*
+
+pre.CodeMirror-line:not(.HyperMD-header){
+
+  margin: 1em;
+
+}
+*/
+
+/* 段间距/预览模式 */
+
+p {
+
+    display: block;
+  
+    margin-block-start: 200em;
+  
+    margin-block-end: 200em;
+  
+    margin-inline-start: 0px;
+  
+    margin-inline-end: 0px;
+  
+  }

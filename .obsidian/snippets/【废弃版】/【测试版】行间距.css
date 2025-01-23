@@ -1,0 +1,13 @@
+/* 行间距 */
+
+.markdown-preview-view.is-readable-line-width .markdown-preview-section,
+
+.markdown-source-view.is-readable-line-width .CodeMirror,
+
+.markdown-preview-view.is-readable-line-width .markdown-preview-sizer {
+
+  line-height: 2.5;
+
+  letter-spacing: 0.04em;
+
+}
