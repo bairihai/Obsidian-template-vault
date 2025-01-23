@@ -9,7 +9,7 @@
 !*.txt
 
 # 不忽略 .css 文件
-!*.md
+!*.css
 # 忽略任意层级plugins文件夹下的所有main.js文件
 /plugins/**/main.js
 
