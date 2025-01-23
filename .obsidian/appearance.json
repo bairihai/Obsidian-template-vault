@@ -1,0 +1,12 @@
+{
+  "accentColor": "#6befed",
+  "theme": "system",
+  "translucency": true,
+  "enabledCssSnippets": [
+    "字体大全"
+  ],
+  "baseFontSize": 19,
+  "cssTheme": "",
+  "textFontFamily": "",
+  "interfaceFontFamily": ""
+}

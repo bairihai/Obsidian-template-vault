@@ -9,10 +9,12 @@
 !*.txt
 
 # 不忽略 .css 文件
-!*.css
+!*.md
+# 忽略任意层级plugins文件夹下的所有main.js文件
+/plugins/**/main.js
 
 # 不忽略 .json 文件（这一举措是为了监督我们模板库的插件，正式使用时可以忽略，可能会造成未知的影响……）
-# !*.json
+!*.json
 
 # 不忽略 .jpg 和 .png 文件
 # !*.jpg

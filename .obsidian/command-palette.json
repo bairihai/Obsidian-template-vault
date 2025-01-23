@@ -1,0 +1,12 @@
+{
+  "pinned": [
+    "insert-template",
+    "editor:toggle-blockquote",
+    "editor:cycle-list-checklist",
+    "daily-notes",
+    "note-refactor-obsidian:app:split-note-by-heading-h2",
+    "multi-column-markdown:insert-multi-column-region",
+    "buttons:button-maker",
+    "buttons:inline-button"
+  ]
+}
