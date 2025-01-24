@@ -1,8 +1,9 @@
 {
-  "attachmentFolderPath": "",
+  "attachmentFolderPath": "./assets",
   "spellcheckLanguages": null,
   "readableLineLength": false,
   "newFileLocation": "current",
   "trashOption": "local",
-  "promptDelete": true
+  "promptDelete": true,
+  "showUnsupportedFiles": true
 }
