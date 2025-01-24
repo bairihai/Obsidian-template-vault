@@ -44,7 +44,7 @@ cover:
 前往各种有用的论坛。有用。也许吧：`button-pkmer` `button-Obsidian` 
 ## 概览
 
-日记模板：[[【日记模板】ZONE]]
+日记模板：[[【闪念模板】ZONE]]
 
 绿墙/热力图/活动历史图/贡献图。插件contribution-graph由国人制作。由youtube 
 Marco Serafini频道的影片推荐。
