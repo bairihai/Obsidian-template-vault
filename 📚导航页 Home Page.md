@@ -42,8 +42,6 @@ cover:
 立刻创建一篇说说：`button-zone` 
 
 前往各种有用的论坛。有用。也许吧：`button-pkmer` `button-Obsidian` 
-
-
 ## 概览
 
 日记模板：[[【日记模板】ZONE]]
