@@ -26,10 +26,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "【模板等】/【闪念模板】ZONE.md",
+                "file": "【模板等】/【文章模板】MD.md",
                 "mode": "source",
                 "backlinks": true,
-                "source": false
+                "source": true
               }
             }
           },
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "【模板等】/【闪念模板】ZONE.md",
+                "file": "【模板等】/【文章模板】MD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "【模板等】/【闪念模板】ZONE.md",
+                "file": "【模板等】/【文章模板】MD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "【模板等】/【闪念模板】ZONE.md"
+                "file": "【模板等】/【文章模板】MD.md"
               }
             }
           },
@@ -205,7 +205,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "【模板等】/【闪念模板】ZONE.md",
+                "file": "【模板等】/【文章模板】MD.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -259,15 +259,15 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "random-note:开始漫游笔记": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": true,
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
       "templater-obsidian:Templater": false
     }
   },
   "active": "c15c9707403df519",
   "lastOpenFiles": [
-    "【模板等】/【文章模板】MD.md",
     "【模板等】/【闪念模板】ZONE.md",
+    "【模板等】/【文章模板】MD.md",
     "01.24-1201 中午.md",
     "01.24-1200 中午.md",
     "📢启用本仓库之后，你的待办事项（可删除）.md",
