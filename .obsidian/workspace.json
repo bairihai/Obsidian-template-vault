@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📢配置打包仓库的发行说明（可删除）.md",
-                "mode": "source",
+                "file": "📚导航页 Home Page.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📢配置打包仓库的发行说明（可删除）.md",
+                "file": "📚导航页 Home Page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📢配置打包仓库的发行说明（可删除）.md",
+                "file": "📚导航页 Home Page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📢配置打包仓库的发行说明（可删除）.md"
+                "file": "📚导航页 Home Page.md"
               }
             }
           },
@@ -191,7 +191,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📢配置打包仓库的发行说明（可删除）.md",
+                "file": "📚导航页 Home Page.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -252,10 +252,10 @@
   },
   "active": "9513c6e4267f6cb8",
   "lastOpenFiles": [
-    "📚导航页 Home Page.md",
-    "📢配置打包仓库的发行说明（可删除）.md",
-    "Excalidraw/Drawing 2025-01-24 11.59.02.excalidraw.md",
     "📢启用本仓库之后，你的待办事项（可删除）.md",
+    "📢配置打包仓库的发行说明（可删除）.md",
+    "📚导航页 Home Page.md",
+    "Excalidraw/Drawing 2025-01-24 11.59.02.excalidraw.md",
     "【模板等】/【文章模板】MD.md",
     "【模板等】/【闪念模板】ZONE.md",
     "01.24-1201 中午.md",

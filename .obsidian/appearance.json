@@ -3,7 +3,8 @@
   "theme": "system",
   "translucency": true,
   "enabledCssSnippets": [
-    "字体大全"
+    "字体大全",
+    "图片圆角-轻度"
   ],
   "baseFontSize": 19,
   "cssTheme": "",
