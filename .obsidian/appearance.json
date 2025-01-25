@@ -4,7 +4,8 @@
   "translucency": true,
   "enabledCssSnippets": [
     "字体大全",
-    "图片圆角-轻度"
+    "图片圆角-轻度",
+    "一级标题居中"
   ],
   "baseFontSize": 19,
   "cssTheme": "",
