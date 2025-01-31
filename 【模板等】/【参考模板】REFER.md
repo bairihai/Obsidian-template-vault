@@ -1,7 +1,8 @@
 ---
 ☀️日期☀️: "{{date}}"
 ⌚️时间⌚️: "{{time}}"
-source_type: [博客/论文/视频/社交媒体] # 单选
+source_type:
+  - 🤖
 source_title: "{{原始标题}}"
 source_author: 
 cssclasses: 
