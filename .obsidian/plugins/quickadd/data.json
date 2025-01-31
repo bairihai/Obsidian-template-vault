@@ -5,10 +5,38 @@
       "name": "从模板新建一篇普通文章",
       "type": "Template",
       "command": true,
-      "templatePath": "",
+      "templatePath": "【模板等】/【文章模板】MD.md",
       "fileNameFormat": {
+        "enabled": true,
+        "format": "普通文章"
+      },
+      "folder": {
         "enabled": false,
-        "format": ""
+        "folders": [],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": false,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    },
+    {
+      "id": "952ec2f7-2f63-4c49-8892-7c664a1a2450",
+      "name": "从模板新建一篇转载的文章",
+      "type": "Template",
+      "command": true,
+      "templatePath": "【模板等】/【参考模板】转载文章：…….md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "参考文章"
       },
       "folder": {
         "enabled": false,
@@ -32,7 +60,7 @@
   "macros": [],
   "inputPrompt": "single-line",
   "devMode": false,
-  "templateFolderPath": "【附件等】",
+  "templateFolderPath": "【模板等】",
   "announceUpdates": true,
   "version": "1.8.1",
   "disableOnlineFeatures": true,

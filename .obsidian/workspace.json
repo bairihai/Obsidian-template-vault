@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "【模板等】/【闪念模板】ZONE.md",
+                "file": "【模板等】/【参考模板】.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "【模板等】/【闪念模板】ZONE.md",
+                "file": "【模板等】/【参考模板】.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "【模板等】/【闪念模板】ZONE.md",
+                "file": "【模板等】/【参考模板】.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "【模板等】/【闪念模板】ZONE.md"
+                "file": "【模板等】/【参考模板】.md"
               }
             }
           },
@@ -205,7 +205,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "【模板等】/【闪念模板】ZONE.md",
+                "file": "【模板等】/【参考模板】.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -266,10 +266,10 @@
   },
   "active": "5fde513b81fb2090",
   "lastOpenFiles": [
+    "【模板等】/【闪念模板】ZONE.md",
     "【模板等】/1 now.md",
     "【模板等】/【文章模板】MD.md",
-    "【模板等】/【闪念模板】ZONE.md",
-    "【模板等】/【参考模板】转载文章：…….md",
+    "【模板等】/【参考模板】.md",
     "01.31-1605 下午.md",
     "示例文档（可删除）/示例文档2-永志.md",
     "示例文档（可删除）/示例文档1-伊洛纳抽卡.md",
