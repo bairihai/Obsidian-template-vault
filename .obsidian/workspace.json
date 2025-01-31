@@ -29,7 +29,7 @@
                 "file": "【模板等】/【参考模板】.md",
                 "mode": "source",
                 "backlinks": true,
-                "source": false
+                "source": true
               }
             }
           },
