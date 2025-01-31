@@ -33,10 +33,38 @@
       "name": "从模板新建一篇转载的文章",
       "type": "Template",
       "command": true,
-      "templatePath": "【模板等】/【参考模板】转载文章：…….md",
+      "templatePath": "【模板等】/【参考模板】REFER.md",
       "fileNameFormat": {
         "enabled": true,
         "format": "参考文章"
+      },
+      "folder": {
+        "enabled": false,
+        "folders": [],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": false,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    },
+    {
+      "id": "f74c383b-791d-44cf-a6ec-e08d05df11d1",
+      "name": "从模板新建一篇AI的文章",
+      "type": "Template",
+      "command": true,
+      "templatePath": "【模板等】/【参考模板】REFER-AI.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "AI参考文章"
       },
       "folder": {
         "enabled": false,
