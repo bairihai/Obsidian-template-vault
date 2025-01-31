@@ -1,0 +1,10 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "☀️日期☀️": "date",
+    "⌚️时间⌚️": "datetime",
+    "📆星期📆": "text"
+  }
+}
