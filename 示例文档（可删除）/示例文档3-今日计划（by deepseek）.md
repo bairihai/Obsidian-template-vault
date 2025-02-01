@@ -96,3 +96,25 @@ if ($targetFolder) {
 } else {
     Write-Host "[-] 目标文件夹未找到" -ForegroundColor Red
 }
+```
+
+# 第二项任务极速执行方案 🚀
+
+**当前时间**：01:00  
+**剩余睡眠窗口**：3小时（至04:00）  
+**推荐工作流**：直接GUI操作 + 智能代码块嵌入
+
+## 📌 第二阶段：GitHub Profile强化（30分钟速成）
+### 1. 精准定位文件
+- 访问：https://github.com/[你的用户名]/[你的用户名]
+- 立即编辑：点击README.md的🖊️按钮
+
+### 2. Obsidian库展示模块（复制即用）
+
+```markdown
+## 🗃️ Obsidian数字花园
+| 知识库名称       | 状态      | 描述                 | 最近更新 |
+|------------------|-----------|----------------------|----------|
+| [CTF笔记库](https://github.com/yourname/obsidian-ctf) | ![Public](https://img.shields.io/badge/Status-Public-brightgreen) | 渗透测试笔记/Writeups | ![LastCommit](https://img.shields.io/github/last-commit/yourname/obsidian-ctf) |
+| [读书矩阵](https://github.com/yourname/book-matrix) | ![Private](https://img.shields.io/badge/Status-Private-red) | 结构化书摘系统 | 本地同步 |
+| [逆向工程日志](https://github.com/yourname/reverse-engineering) | ![WIP](https://img.shields.io/badge/Status-WIP-yellow) | 游戏逆向分析记录 | ![LastCommit](https://img.shields.io/github/last-commit/yourname/reverse-engineering) |
