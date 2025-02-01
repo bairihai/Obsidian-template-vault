@@ -26,7 +26,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📚导航页 Home Page.md",
+                "file": "示例文档（可删除）/示例文档2-永志.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8f23fc3a2060772b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "示例文档（可删除）/示例文档3-今日计划（by deepseek）.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -150,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📚导航页 Home Page.md",
+                "file": "示例文档（可删除）/示例文档3-今日计划（by deepseek）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📚导航页 Home Page.md",
+                "file": "示例文档（可删除）/示例文档3-今日计划（by deepseek）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📚导航页 Home Page.md"
+                "file": "示例文档（可删除）/示例文档3-今日计划（by deepseek）.md"
               }
             }
           },
@@ -205,7 +218,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📚导航页 Home Page.md",
+                "file": "示例文档（可删除）/示例文档3-今日计划（by deepseek）.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -264,8 +277,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5fde513b81fb2090",
+  "active": "8f23fc3a2060772b",
   "lastOpenFiles": [
+    "示例文档（可删除）/示例文档2-永志.md",
+    "示例文档（可删除）/示例文档3-今日计划（by deepseek）.md",
+    "📚导航页 Home Page.md",
     "📢配置打包仓库的发行说明（可删除）.md",
     "📢启用本仓库之后，你的待办事项（可删除）.md",
     "【模板等】/【参考模板】REFER.md",
@@ -275,9 +291,7 @@
     "【模板等】/1 now.md",
     "【模板等】/【文章模板】MD.md",
     "01.31-1605 下午.md",
-    "示例文档（可删除）/示例文档2-永志.md",
     "示例文档（可删除）/示例文档1-伊洛纳抽卡.md",
-    "📚导航页 Home Page.md",
     "Excalidraw/Drawing 2025-01-24 11.59.02.excalidraw.md",
     "01.24-1201 中午.md",
     "01.24-1200 中午.md",
@@ -295,7 +309,6 @@
     "示例文档（可删除）/111",
     "示例文档（可删除）/222",
     "示例文档（可删除）",
-    "示例文档/示例文档-1伊洛纳抽卡.md",
     "示例文档/222",
     "示例文档/111",
     "示例文档",
