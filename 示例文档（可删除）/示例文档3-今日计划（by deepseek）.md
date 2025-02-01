@@ -69,3 +69,30 @@ gantt
 
 #【特殊tag】/有评论或留言的文章
 
+# 第一项：CTF文件夹内附件恢复
+
+**当前时间**：2025-02-02 00:55  
+**紧急程度**：‼️ 需在01:30前完成恢复
+
+## 🚨 现状分析
+- **物理路径**：`E:\$RECYCLE.BIN\$RSP1THY` (回收站系统保护目录)
+- **关键矛盾**：Windows回收站机制对批量操作不友好
+- **风险预警**：直接操作可能触发文件覆盖（剩余磁盘空间：23.4GB）
+
+## 🔑 三步恢复方案
+### 步骤1：系统级批量还原
+
+```powershell
+# 以管理员身份运行 PowerShell
+$shell = New-Object -ComObject Shell.Application
+$recycleBin = $shell.Namespace(0xA)  # 0xA 代表回收站
+$targetFolder = $recycleBin.Items() | Where-Object { 
+    $_.Path -match '\$RSP1THY$' 
+}
+
+if ($targetFolder) {
+    $targetFolder.InvokeVerb("还原")  # 触发系统级还原
+    Write-Host "[+] 已批量还原 $($targetFolder.Name)" -ForegroundColor Green
+} else {
+    Write-Host "[-] 目标文件夹未找到" -ForegroundColor Red
+}
