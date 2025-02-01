@@ -140,3 +140,6 @@ if ($targetFolder) {
 | [2024日记库](https://github.com/yourname/book-matrix) | [Gitee](https://gitee.com/bairihai/projects?) | ![](https://img.shields.io/badge/Status-Private-red) |  | 已完结。<br>实际上 |
 | 归一与杂文集/万象我生Unity-me | [Gitee](https://gitee.com/bairihai/unity-me) | ![](https://img.shields.io/badge/Status-Private-red) |  |  |
 | [逆向工程日志](https://github.com/yourname/reverse-engineering) | [Gitee](https://gitee.com/bairihai/projects?) | ![](https://img.shields.io/badge/Status-Public-brightgreen) | ![](https://img.shields.io/github/last-commit/yourname/reverse-engineering) | - |
+注：上文所述 《2024日记库》，实际上由于2月中旬我还用官方同步取代了原本的remotely save，这一库需要同步，就和《归一与杂文集》进行了简单的合并。
+
+这落下了一个祸根：我现在难以将这些短期文档和长期文档拆开。具体情况还在处理，最终的办法可能会下一些重功夫（写一些插件）来完成，暂时搁置。
