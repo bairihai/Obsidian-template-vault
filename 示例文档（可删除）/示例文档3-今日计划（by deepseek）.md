@@ -137,7 +137,7 @@ if ($targetFolder) {
 | Github知识库 | 其他查看方式 | 状态 | 最近更新 | 状况备注 |
 | ---- | ---- | ---- | ---- | ---- |
 | [2023日记库](https://github.com/yourname/obsidian-ctf) | [Gitee](https://gitee.com/bairihai/new-zone-dairy) | ![](https://img.shields.io/badge/Status-Private-red) | ![](https://img.shields.io/github/last-commit/yourname/obsidian-ctf) | 已完结。<br>gitee仓库**已关闭**，<br>本地文档**已归档** |
-| [2024日记库](https://github.com/yourname/book-matrix) | [Gitee](https://gitee.com/bairihai/projects?) | ![](https://img.shields.io/badge/Status-Private-red) |  | 已完结。<br>实际上 |
+| [2024日记库](https://github.com/yourname/book-matrix) | [Gitee](https://gitee.com/bairihai/projects?) | ![](https://img.shields.io/badge/Status-Private-red) |  | 已完结。<br> |
 | 归一与杂文集/万象我生Unity-me | [Gitee](https://gitee.com/bairihai/unity-me) | ![](https://img.shields.io/badge/Status-Private-red) |  |  |
 | [逆向工程日志](https://github.com/yourname/reverse-engineering) | [Gitee](https://gitee.com/bairihai/projects?) | ![](https://img.shields.io/badge/Status-Public-brightgreen) | ![](https://img.shields.io/github/last-commit/yourname/reverse-engineering) | - |
 注：上文所述 《2024日记库》，实际上由于2月中旬我还用官方同步取代了原本的remotely save，这一库需要同步，就和《归一与杂文集》进行了简单的合并。
