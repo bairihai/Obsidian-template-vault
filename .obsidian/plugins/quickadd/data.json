@@ -23,14 +23,14 @@
         "direction": "vertical",
         "focus": true
       },
-      "openFile": false,
+      "openFile": true,
       "openFileInMode": "default",
       "fileExistsMode": "Increment the file name",
       "setFileExistsBehavior": false
     },
     {
       "id": "952ec2f7-2f63-4c49-8892-7c664a1a2450",
-      "name": "从模板新建一篇转载的文章",
+      "name": "转载的参考文章",
       "type": "Template",
       "command": true,
       "templatePath": "【模板等】/【参考模板】REFER.md",
@@ -51,14 +51,14 @@
         "direction": "vertical",
         "focus": true
       },
-      "openFile": false,
+      "openFile": true,
       "openFileInMode": "default",
       "fileExistsMode": "Increment the file name",
       "setFileExistsBehavior": false
     },
     {
       "id": "f74c383b-791d-44cf-a6ec-e08d05df11d1",
-      "name": "从模板新建一篇AI的文章",
+      "name": "AI的参考文章",
       "type": "Template",
       "command": true,
       "templatePath": "【模板等】/【参考模板】REFER-AI.md",
@@ -79,7 +79,7 @@
         "direction": "vertical",
         "focus": true
       },
-      "openFile": false,
+      "openFile": true,
       "openFileInMode": "default",
       "fileExistsMode": "Increment the file name",
       "setFileExistsBehavior": false
