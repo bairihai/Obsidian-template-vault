@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "示例文档（可删除）/示例文档3-今日计划（by deepseek）.md",
+                "file": "📚导航页 Home Page.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -163,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "示例文档（可删除）/示例文档3-今日计划（by deepseek）.md",
+                "file": "📚导航页 Home Page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "示例文档（可删除）/示例文档3-今日计划（by deepseek）.md",
+                "file": "📚导航页 Home Page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "示例文档（可删除）/示例文档3-今日计划（by deepseek）.md"
+                "file": "📚导航页 Home Page.md"
               }
             }
           },
@@ -205,7 +205,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "86c42c8b27a44571",
@@ -218,7 +218,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "示例文档（可删除）/示例文档3-今日计划（by deepseek）.md",
+                "file": "📚导航页 Home Page.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -279,11 +279,11 @@
   },
   "active": "8f23fc3a2060772b",
   "lastOpenFiles": [
-    "示例文档（可删除）/示例文档2-永志.md",
-    "示例文档（可删除）/示例文档3-今日计划（by deepseek）.md",
-    "📚导航页 Home Page.md",
     "📢配置打包仓库的发行说明（可删除）.md",
+    "📚导航页 Home Page.md",
     "📢启用本仓库之后，你的待办事项（可删除）.md",
+    "示例文档（可删除）/示例文档3-今日计划（by deepseek）.md",
+    "示例文档（可删除）/示例文档2-永志.md",
     "【模板等】/【参考模板】REFER.md",
     "AI参考文章.md",
     "【模板等】/【参考模板】REFER-AI.md",
