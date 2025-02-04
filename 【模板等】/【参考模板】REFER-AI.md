@@ -9,7 +9,7 @@ uid:
   - uid_<% Date.now() %>
 aliases: 
 tags:
-  - 【转载的文章】
+  - 【非原创文章】/AI生成
 ---
 ---
 

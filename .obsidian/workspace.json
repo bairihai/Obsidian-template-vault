@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📚导航页 Home Page.md",
-                "mode": "preview",
+                "file": "📢最佳实践：如何将你的现有Obsidian vault升级为我们的预制库.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "粗体",
+                "query": "tag:【转载的文章】",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,7 +102,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -115,7 +115,7 @@
       {
         "id": "b966c386616b70e8",
         "type": "tabs",
-        "dimension": 28.748451053283766,
+        "dimension": 30.359355638166047,
         "children": [
           {
             "id": "01e3cda5f2c0da5a",
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📚导航页 Home Page.md",
+                "file": "📢最佳实践：如何将你的现有Obsidian vault升级为我们的预制库.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📚导航页 Home Page.md",
+                "file": "📢最佳实践：如何将你的现有Obsidian vault升级为我们的预制库.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📚导航页 Home Page.md"
+                "file": "📢最佳实践：如何将你的现有Obsidian vault升级为我们的预制库.md"
               }
             }
           },
@@ -170,7 +170,7 @@
       {
         "id": "86c42c8b27a44571",
         "type": "tabs",
-        "dimension": 71.25154894671623,
+        "dimension": 69.64064436183395,
         "children": [
           {
             "id": "925ce951683fd300",
@@ -178,7 +178,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📚导航页 Home Page.md",
+                "file": "📢最佳实践：如何将你的现有Obsidian vault升级为我们的预制库.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -252,28 +252,29 @@
   },
   "active": "d13e368aa5e63f8e",
   "lastOpenFiles": [
+    "assets/Pasted image 20250205031352.png",
+    "assets",
     "🛠️常用工具 My Tools.md",
+    "📚导航页 Home Page.md",
     "📢最佳实践：如何将你的现有Obsidian vault升级为我们的预制库.md",
     "📢配置打包仓库的发行说明（可删除）.md",
-    "【附件等】/按钮（for第三方插件buttons）/按钮集【普通按钮】.md",
-    "📚导航页 Home Page.md",
-    "【附件等】/assets/Pasted image 20250205024134.png",
-    "assets",
     "📢启用本仓库之后，你的待办事项（可删除）.md",
+    "【模板等】/【文章模板】MD.md",
+    "【模板等】/【闪念模板】ZONE.md",
+    "【模板等】/【参考模板】REFER-AI.md",
+    "【模板等】/【参考模板】REFER.md",
+    "【附件等】/按钮（for第三方插件buttons）/按钮集【普通按钮】.md",
+    "【附件等】/assets/Pasted image 20250205024134.png",
     "【附件等】/assets/Pasted image 20250205023244.png",
     "普通文章.md",
     "参考资料：网络收藏.md",
     "02.05-0225 凌晨.md",
-    "【模板等】/【参考模板】REFER.md",
-    "【模板等】/【参考模板】REFER-AI.md",
-    "【模板等】/【闪念模板】ZONE.md",
     "参考资料：AI生成.md",
     "02.05-0220 凌晨.md",
     "02.05-0218 凌晨.md",
     "02.05-0217 凌晨.md",
     "02.05-0151 凌晨.md",
     "02.05-0149 凌晨.md",
-    "【模板等】/【文章模板】MD.md",
     "02.05-0147 凌晨.md",
     "【附件等】/按钮（for第三方插件buttons）/外链按钮集【警告！！！内含硬编码SVG，可能造成打开性能问题】.md",
     "示例文档（可删除）/示例文档1-伊洛纳抽卡.md",
