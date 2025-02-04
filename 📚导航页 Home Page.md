@@ -46,6 +46,19 @@ cover:
 
 【快捷操作被封装在buttons插件的command中，请在==阅读视图==下查看】
 
+```mermaid
+graph LR
+    B[Buttons插件] -->|触发| Q[QuickAdd命令]
+    Q -->|使用| T[Templater模板]
+    T -->|生成| F[最终文档]
+    style F fill:#4F576A
+```
+[Buttons插件]([[按钮集【普通按钮】]])    [QuickAdd命令]([[]])
+
+
+
+
+
 立刻创建一篇说说：`button-zone` 
 
 前往各种有用的论坛。有用。也许吧：`button-pkmer` `button-Obsidian` 
