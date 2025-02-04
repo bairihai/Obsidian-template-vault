@@ -10,6 +10,4 @@ uid:
   - uid_<% Date.now() %>
 aliases:
 ---
-
----
-
+<% tp.file.cursor() %> <%* app.workspace.activeLeaf.view.editor?.focus(); %>

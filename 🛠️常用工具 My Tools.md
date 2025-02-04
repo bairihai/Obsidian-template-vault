@@ -10,9 +10,13 @@ cssclasses:
 
 > [!note|style-4 anp-vanilla-normal center]+ Quick Add 标准化新建
 > 
-> `button-zone`  `button-md`
+> `button-zone` 
 > 
->  `button-ref-webBookmark` `button-ref-AI`
+> `button-md`
+> 
+>  `button-ref-webBookmark` 
+>  
+>  `button-ref-AI`
 
 <div style="height: 20px"></div>
 
