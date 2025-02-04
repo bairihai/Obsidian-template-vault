@@ -4,7 +4,7 @@
     "cssclasses": "multitext",
     "tags": "tags",
     "☀️日期☀️": "date",
-    "⌚️时间⌚️": "datetime",
+    "⌚️时间⌚️": "text",
     "📆星期📆": "text",
     "source_type": "text"
   }
