@@ -4,7 +4,7 @@ cssclasses:
   - hide-metadata
 ---
 
-> 常用工具My Tools仍在制作当中，部分功能暂不可用。请启用buttons插件以便查看。
+> 常用工具My Tools仍在制作当中，部分功能（例如那个记录一条说说memo的按钮）暂不可用。请启用buttons插件以便查看。
 
 <div style="height: 20px"></div>
 
