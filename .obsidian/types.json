@@ -7,5 +7,6 @@
     "⌚️时间⌚️": "text",
     "📆星期📆": "text",
     "source_type": "text"
+    "created": "datetime"
   }
 }
