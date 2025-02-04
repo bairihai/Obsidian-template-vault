@@ -2,14 +2,14 @@
   "pinned": [
     "insert-template",
     "editor:toggle-blockquote",
+    "editor:toggle-comments",
     "editor:cycle-list-checklist",
     "daily-notes",
-    "quickadd:choice:a95f6802-9bc8-4a59-b9d5-219c653bcab5",
-    "quickadd:choice:952ec2f7-2f63-4c49-8892-7c664a1a2450",
-    "quickadd:choice:f74c383b-791d-44cf-a6ec-e08d05df11d1",
     "note-refactor-obsidian:app:split-note-by-heading-h2",
     "multi-column-markdown:insert-multi-column-region",
     "buttons:button-maker",
-    "buttons:inline-button"
+    "quickadd:choice:a95f6802-9bc8-4a59-b9d5-219c653bcab5",
+    "quickadd:choice:952ec2f7-2f63-4c49-8892-7c664a1a2450",
+    "quickadd:choice:f74c383b-791d-44cf-a6ec-e08d05df11d1"
   ]
 }
