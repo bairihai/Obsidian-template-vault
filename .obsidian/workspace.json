@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📢最佳实践：如何将你的现有Obsidian vault升级为我们的预制库.md",
-                "mode": "source",
+                "file": "📚导航页 Home Page.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📢最佳实践：如何将你的现有Obsidian vault升级为我们的预制库.md",
+                "file": "📚导航页 Home Page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📢最佳实践：如何将你的现有Obsidian vault升级为我们的预制库.md",
+                "file": "📚导航页 Home Page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📢最佳实践：如何将你的现有Obsidian vault升级为我们的预制库.md"
+                "file": "📚导航页 Home Page.md"
               }
             }
           },
@@ -178,7 +178,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📢最佳实践：如何将你的现有Obsidian vault升级为我们的预制库.md",
+                "file": "📚导航页 Home Page.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -250,12 +250,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8dc072b6f0c03391",
+  "active": "d13e368aa5e63f8e",
   "lastOpenFiles": [
+    "📢配置打包仓库的发行说明（可删除）.md",
+    "📢启用本仓库之后，你的待办事项（可删除）.md",
+    "📢最佳实践：如何将你的现有Obsidian vault升级为我们的预制库.md",
+    "🛠️常用工具 My Tools.md",
+    "📚导航页 Home Page.md",
     "【附件等】/assets/Pasted image 20250205023244.png",
     "assets",
-    "📚导航页 Home Page.md",
-    "🛠️常用工具 My Tools.md",
     "普通文章.md",
     "参考资料：网络收藏.md",
     "02.05-0225 凌晨.md",
@@ -265,10 +268,7 @@
     "【附件等】/按钮（for第三方插件buttons）/按钮集【普通按钮】.md",
     "参考资料：AI生成.md",
     "02.05-0220 凌晨.md",
-    "📢最佳实践：如何将你的现有Obsidian vault升级为我们的预制库.md",
-    "📢配置打包仓库的发行说明（可删除）.md",
     "02.05-0218 凌晨.md",
-    "📢启用本仓库之后，你的待办事项（可删除）.md",
     "02.05-0217 凌晨.md",
     "02.05-0151 凌晨.md",
     "02.05-0149 凌晨.md",
@@ -295,7 +295,6 @@
     "【附件等】/assets/Pasted image 20250120052229.png",
     "【附件等】/assets/Pasted image 20250120051713.png",
     "【附件等】/assets/Pasted image 20240918001232.png",
-    "【附件等】/assets/Pasted image 20250118000059.png",
     "【附件等】/按钮（for第三方插件buttons）",
     "【模板等】"
   ]

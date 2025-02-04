@@ -17,8 +17,8 @@
 !*.json
 
 # 不忽略 .jpg 和 .png 文件
-# !*.jpg
-# !*.png
+!*.jpg
+!*.png
 
 # 不忽略 .gitignore 文件本身
 !.gitignore
