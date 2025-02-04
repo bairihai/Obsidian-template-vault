@@ -13,28 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "【附件等】/按钮（for第三方插件buttons）/按钮集【普通按钮】.md",
+                "file": "🛠️常用工具 My Tools.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               }
             }
-          },
-          {
-            "id": "176ea80a5c441b6b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🛠️常用工具 My Tools.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -236,7 +222,7 @@
               "type": "markdown",
               "state": {
                 "file": "🛠️常用工具 My Tools.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -266,8 +252,12 @@
   },
   "active": "da45926798b00746",
   "lastOpenFiles": [
-    "【模板等】/【闪念模板】ZONE.md",
+    "02.05-0151 凌晨.md",
     "🛠️常用工具 My Tools.md",
+    "📢最佳实践：如何将你的现有Obsidian vault升级为我们的预制库.md",
+    "【附件等】/按钮（for第三方插件buttons）/按钮集【普通按钮】.md",
+    "02.05-0149 凌晨.md",
+    "【模板等】/【闪念模板】ZONE.md",
     "【模板等】/【参考模板】REFER-AI.md",
     "【模板等】/【参考模板】REFER.md",
     "【模板等】/【文章模板】MD.md",
@@ -275,8 +265,6 @@
     "📢启用本仓库之后，你的待办事项（可删除）.md",
     "📚导航页 Home Page.md",
     "📢配置打包仓库的发行说明（可删除）.md",
-    "📢最佳实践：如何将你的现有Obsidian vault升级为我们的预制库.md",
-    "【附件等】/按钮（for第三方插件buttons）/按钮集【普通按钮】.md",
     "【附件等】/按钮（for第三方插件buttons）/外链按钮集【警告！！！内含硬编码SVG，可能造成打开性能问题】.md",
     "示例文档（可删除）/示例文档1-伊洛纳抽卡.md",
     "示例文档（可删除）/示例文档2-永志.md",
@@ -291,8 +279,6 @@
     "Excalidraw",
     "01.24-1146 中午.md",
     "【模板等】/comment.md",
-    "【模板等】/2 image.md",
-    "【模板等】/titled by NB.md",
     "示例文档（可删除）/111",
     "示例文档（可删除）/222",
     "示例文档（可删除）",
