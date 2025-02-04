@@ -41,11 +41,15 @@ cover:
 
 ## 快捷操作
 
+![[🛠️常用工具 My Tools]]
+
+
 【快捷操作被封装在buttons插件的command中，请在==阅读视图==下查看】
 
 立刻创建一篇说说：`button-zone` 
 
 前往各种有用的论坛。有用。也许吧：`button-pkmer` `button-Obsidian` 
+
 ## 概览
 
 日记模板：[[【闪念模板】ZONE]]

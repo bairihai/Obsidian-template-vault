@@ -7,7 +7,7 @@
       "command": true,
       "templatePath": "【模板等】/【文章模板】MD.md",
       "fileNameFormat": {
-        "enabled": true,
+        "enabled": false,
         "format": "普通文章"
       },
       "folder": {
@@ -35,7 +35,7 @@
       "command": true,
       "templatePath": "【模板等】/【参考模板】REFER.md",
       "fileNameFormat": {
-        "enabled": true,
+        "enabled": false,
         "format": "参考文章"
       },
       "folder": {
@@ -63,7 +63,7 @@
       "command": true,
       "templatePath": "【模板等】/【参考模板】REFER-AI.md",
       "fileNameFormat": {
-        "enabled": true,
+        "enabled": false,
         "format": "AI参考文章"
       },
       "folder": {
