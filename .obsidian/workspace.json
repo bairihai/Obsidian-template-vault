@@ -16,7 +16,7 @@
                 "file": "【附件等】/按钮（for第三方插件buttons）/按钮集【普通按钮】.md",
                 "mode": "source",
                 "backlinks": true,
-                "source": false
+                "source": true
               }
             }
           },
@@ -263,7 +263,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8dc072b6f0c03391",
+  "active": "8f23fc3a2060772b",
   "lastOpenFiles": [
     "🛠️常用工具 My Tools.md",
     "【附件等】/按钮（for第三方插件buttons）/按钮集【普通按钮】.md",
