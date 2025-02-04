@@ -29,11 +29,14 @@ aliases:
 
 ![[Pasted image 20250205024134.png]]
 
+> 借此机会，让我们学习一下obsidian的数据结构。
 ### 主要设置
 
 ![[Pasted image 20250205033409.png|命令面板]]
 
+![[Pasted image 20250205033523.png|命令面板设置效果]]
 
+![[Pasted image 20250205033930.png|快捷键]]
 
 ### 主题与CSS snippets
 
