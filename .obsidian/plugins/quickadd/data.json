@@ -11,10 +11,10 @@
         "format": "普通文章"
       },
       "folder": {
-        "enabled": false,
+        "enabled": true,
         "folders": [],
         "chooseWhenCreatingNote": false,
-        "createInSameFolderAsActiveFile": false,
+        "createInSameFolderAsActiveFile": true,
         "chooseFromSubfolders": false
       },
       "appendLink": false,
@@ -39,10 +39,10 @@
         "format": "【参考资料：网络收藏】"
       },
       "folder": {
-        "enabled": false,
+        "enabled": true,
         "folders": [],
         "chooseWhenCreatingNote": false,
-        "createInSameFolderAsActiveFile": false,
+        "createInSameFolderAsActiveFile": true,
         "chooseFromSubfolders": false
       },
       "appendLink": false,
@@ -67,10 +67,10 @@
         "format": "【参考资料：AI生成】"
       },
       "folder": {
-        "enabled": false,
+        "enabled": true,
         "folders": [],
         "chooseWhenCreatingNote": false,
-        "createInSameFolderAsActiveFile": false,
+        "createInSameFolderAsActiveFile": true,
         "chooseFromSubfolders": false
       },
       "appendLink": false,
