@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:【转载的文章】",
+                "query": "字体",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -59,7 +59,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "92bf01be47354d8d",
@@ -250,7 +251,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a9a66452ab8851c6",
+  "active": "06d3f775a46a584c",
   "lastOpenFiles": [
     "📢启用本仓库之后，你的待办事项（可删除）.md",
     "📢最佳实践：如何利用Beyond Compare将你的现有Obsidian vault升级为我们的预制库（可删除）.md",
