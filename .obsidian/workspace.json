@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📢最佳实践：如何将你的现有Obsidian vault升级为我们的预制库.md",
+                "file": "📢最佳实践：如何利用Beyond Compare将你的现有Obsidian vault升级为我们的预制库.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -102,7 +102,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📢最佳实践：如何将你的现有Obsidian vault升级为我们的预制库.md",
+                "file": "📢最佳实践：如何利用Beyond Compare将你的现有Obsidian vault升级为我们的预制库.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📢最佳实践：如何将你的现有Obsidian vault升级为我们的预制库.md",
+                "file": "📢最佳实践：如何利用Beyond Compare将你的现有Obsidian vault升级为我们的预制库.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📢最佳实践：如何将你的现有Obsidian vault升级为我们的预制库.md"
+                "file": "📢最佳实践：如何利用Beyond Compare将你的现有Obsidian vault升级为我们的预制库.md"
               }
             }
           },
@@ -178,7 +178,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📢最佳实践：如何将你的现有Obsidian vault升级为我们的预制库.md",
+                "file": "📢最佳实践：如何利用Beyond Compare将你的现有Obsidian vault升级为我们的预制库.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -252,11 +252,13 @@
   },
   "active": "d13e368aa5e63f8e",
   "lastOpenFiles": [
+    "assets/Pasted image 20250205031834.png",
+    "assets/Pasted image 20250205031621.png",
     "assets/Pasted image 20250205031352.png",
     "assets",
     "🛠️常用工具 My Tools.md",
     "📚导航页 Home Page.md",
-    "📢最佳实践：如何将你的现有Obsidian vault升级为我们的预制库.md",
+    "📢最佳实践：如何利用Beyond Compare将你的现有Obsidian vault升级为我们的预制库.md",
     "📢配置打包仓库的发行说明（可删除）.md",
     "📢启用本仓库之后，你的待办事项（可删除）.md",
     "【模板等】/【文章模板】MD.md",
@@ -294,8 +296,6 @@
     "【附件等】/assets/Pasted image 20250123070643.png",
     "【附件等】/assets/Pasted image 20250121111702.png",
     "【附件等】/assets/Pasted image 20250111055554.png",
-    "【附件等】/assets/Pasted image 20250120052229.png",
-    "【附件等】/assets/Pasted image 20250120051713.png",
     "【附件等】/按钮（for第三方插件buttons）",
     "【模板等】"
   ]
