@@ -3,10 +3,10 @@
   "theme": "system",
   "translucency": true,
   "enabledCssSnippets": [
-    "字体大全",
     "图片圆角-轻度",
     "一级标题居中",
-    "[Blue Topaz]mytools 样式"
+    "[Blue Topaz]mytools 样式",
+    "字体大全"
   ],
   "baseFontSize": 19,
   "cssTheme": "",
