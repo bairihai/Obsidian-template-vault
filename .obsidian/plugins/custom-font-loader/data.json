@@ -1,6 +1,6 @@
 {
-  "font_folder": ".obsidian/fonts/",
-  "font": "all",
+  "font_folder": "【附件等】\\字体（重返未来1999）/",
+  "font": "【附件等】/字体（重返未来1999）/PTSerifProRg.OTF",
   "force_mode": false,
   "custom_css_mode": true,
   "custom_css": "\n.HYWenHei-75W * {\n\t\tfont-family: HYWenHei-75W !important;\n\t\t}\n.HYWenHei-85W * {\n\t\tfont-family: HYWenHei-85W !important;\n\t\t}\n.HYQiHei_50S * {\n\t\tfont-family: HYQiHei_50S !important;\n\t\t}\n.DIN-Medium-2 * {\n\t\tfont-family: DIN-Medium-2 !important;\n\t\t}"
