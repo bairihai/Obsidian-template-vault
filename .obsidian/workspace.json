@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "【附件等】/附件管理规范.md",
+                "file": "【模板等】/【参考模板】REFER.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "【附件等】/附件管理规范.md",
+                "file": "【模板等】/【参考模板】REFER.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "【附件等】/附件管理规范.md",
+                "file": "【模板等】/【参考模板】REFER.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "【附件等】/附件管理规范.md"
+                "file": "【模板等】/【参考模板】REFER.md"
               }
             }
           },
@@ -178,7 +178,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "【附件等】/附件管理规范.md",
+                "file": "【模板等】/【参考模板】REFER.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -252,8 +252,10 @@
   },
   "active": "a9a66452ab8851c6",
   "lastOpenFiles": [
-    "02.05-2016 晚上.md",
+    "【模板等】/【参考模板】REFER-AI.md",
+    "【模板等】/【参考模板】REFER.md",
     "【附件等】/附件管理规范.md",
+    "02.05-2016 晚上.md",
     "【附件等】/pt-serif-pro-cufonfonts.zip",
     "【附件等】\\字体（重返未来1999）/",
     "【附件等】\\字体（重返未来1999）",
@@ -283,8 +285,6 @@
     "普通文章.md",
     "【模板等】/【文章模板】MD.md",
     "【模板等】/【闪念模板】ZONE.md",
-    "【模板等】/【参考模板】REFER-AI.md",
-    "【模板等】/【参考模板】REFER.md",
     "【附件等】/按钮（for第三方插件buttons）/按钮集【普通按钮】.md",
     "参考资料：网络收藏.md",
     "02.05-0225 凌晨.md",
