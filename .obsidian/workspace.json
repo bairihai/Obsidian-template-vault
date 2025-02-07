@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📢配置打包仓库的发行说明（可删除）.md",
+                "file": "📚导航页 Home Page.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📢配置打包仓库的发行说明（可删除）.md",
+                "file": "📚导航页 Home Page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📢配置打包仓库的发行说明（可删除）.md",
+                "file": "📚导航页 Home Page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📢配置打包仓库的发行说明（可删除）.md"
+                "file": "📚导航页 Home Page.md"
               }
             }
           },
@@ -178,7 +178,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📢配置打包仓库的发行说明（可删除）.md",
+                "file": "📚导航页 Home Page.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -252,6 +252,9 @@
   },
   "active": "a9a66452ab8851c6",
   "lastOpenFiles": [
+    "📢最佳实践：如何利用Beyond Compare将你的现有Obsidian vault升级为我们的预制库（可删除）.md",
+    "📢启用本仓库之后，你的待办事项（可删除）.md",
+    "📢配置打包仓库的发行说明（可删除）.md",
     "【模板等】/【参考模板】REFER.md",
     "【模板等】/【参考模板】REFER-AI.md",
     "【附件等】/附件管理规范.md",
@@ -265,11 +268,8 @@
     "【附件等】/字体（重返未来1999）/pt-serif-pro-cufonfonts.zip",
     "【附件等】/assets/Pasted image 20250205084337.png",
     "【附件等】/assets/Pasted image 20250205084235.png",
-    "📢启用本仓库之后，你的待办事项（可删除）.md",
-    "📢配置打包仓库的发行说明（可删除）.md",
     "【附件等】/字体（重返未来1999）",
     "【附件等】/新建文件夹",
-    "📢最佳实践：如何利用Beyond Compare将你的现有Obsidian vault升级为我们的预制库（可删除）.md",
     "assets/Pasted image 20250205045024.png",
     "assets/Pasted image 20250205044555.png",
     "【模板等】/(pin) task (lark & loose-leaf-book).md",

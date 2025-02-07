@@ -24,7 +24,7 @@ cover:
 
 也就是实现原创、非原创内容的分离。除此外就没啥了。 %%
 
-> [!note]+ 参见：本仓库启用的插件
+> [!note]- 参见：本仓库启用的插件
 > 
 > ```dataviewjs
 > const plugins = app.plugins.enabledPlugins;
