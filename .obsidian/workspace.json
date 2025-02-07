@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "【模板等】/【参考模板】REFER.md",
+                "file": "📢配置打包仓库的发行说明（可删除）.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "【模板等】/【参考模板】REFER.md",
+                "file": "📢配置打包仓库的发行说明（可删除）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "【模板等】/【参考模板】REFER.md",
+                "file": "📢配置打包仓库的发行说明（可删除）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "【模板等】/【参考模板】REFER.md"
+                "file": "📢配置打包仓库的发行说明（可删除）.md"
               }
             }
           },
@@ -178,7 +178,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "【模板等】/【参考模板】REFER.md",
+                "file": "📢配置打包仓库的发行说明（可删除）.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -252,8 +252,8 @@
   },
   "active": "a9a66452ab8851c6",
   "lastOpenFiles": [
-    "【模板等】/【参考模板】REFER-AI.md",
     "【模板等】/【参考模板】REFER.md",
+    "【模板等】/【参考模板】REFER-AI.md",
     "【附件等】/附件管理规范.md",
     "02.05-2016 晚上.md",
     "【附件等】/pt-serif-pro-cufonfonts.zip",
