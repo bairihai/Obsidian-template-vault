@@ -8,29 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a9a66452ab8851c6",
+            "id": "1b83420811b7edb7",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "【模板等】/2 image.md",
+                "file": "📚导航页 Home Page.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "8ec8dc49a2659e23",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "【模板等】/4 now-simple.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              },
+              "pinned": true
             }
           },
           {
@@ -47,7 +36,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -279,10 +268,10 @@
   },
   "active": "2a0aaaa89707e2bc",
   "lastOpenFiles": [
-    "【模板等】/4 now-simple.md",
-    "【模板等】/3 refer.md",
-    "【模板等】/2 image.md",
     "📚导航页 Home Page.md",
+    "【模板等】/3 refer.md",
+    "【模板等】/4 now-simple.md",
+    "【模板等】/2 image.md",
     "📢配置打包仓库的发行说明（可删除）.md",
     "📢启用本仓库之后，你的待办事项（可删除）.md",
     "📢最佳实践：如何利用Beyond Compare将你的现有Obsidian vault升级为我们的预制库（可删除）.md",
