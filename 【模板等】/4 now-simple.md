@@ -1,0 +1,1 @@
+{{date:YY-MM-DD HH:mm}}
