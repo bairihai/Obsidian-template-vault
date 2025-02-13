@@ -2,13 +2,15 @@
 /* 不可与github-pkmer边注共用。 */
 /* 写法形如： */
 .callout-asides {
-    border-color: var(--text-normal);
+    border-color: rgb(var(--text-normal));
     border-width: 2px;
     border-style: solid;
     border-radius: 2px;
     /* background-image: linear-gradient(rgba(0, 0, 255, 0.2), rgba(255, 255, 0, 0.2)); */
     /* background-color: var(--text-accent-rgb); */
     /* background-color: rgb(var(--text-accent-rgb), 0.2); */
-    color: #EBE5D8;
-    background-color: #4F576A;
+    /* color: #EBE5D8;
+    background-color: #4F576A; */
+    text-decoration: underline;
+    padding-left: 4em;
 }
