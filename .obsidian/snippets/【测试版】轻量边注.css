@@ -3,29 +3,17 @@
 /* 写法形如：<p align="right" class="callout-asides"> <center class="callout-asides"> */
 
 .callout-asides {
-    /* 移除原有边框 */
-    border: none;
-    border-radius: 4px;
-    /* 使用主题变量创建渐变，从右到左渐变 */
-    background: linear-gradient(
-        to left,
-        rgba(var(--text-normal-rgb), 0.08) 0%,
-        rgba(var(--text-normal-rgb), 0.03) 100%
-    );
-    /* 添加右侧标识 */
-    border-right: 3px solid rgba(var(--text-accent-rgb), 0.3);
-    padding: 0.8em 1em 0.8em 1.5em;
-    margin: 1em 0;
-    /* 移除下划线 */
-    text-decoration: none;
-}
-
-/* 悬停效果 */
-.callout-asides:hover {
-    background: linear-gradient(
-        to left,
-        rgba(var(--text-accent-rgb), 0.08) 0%,
-        rgba(var(--text-accent-rgb), 0.03) 100%
-    );
-    border-right-color: rgba(var(--text-accent-rgb), 0.5);
-}
+    border-color: rgb(var(--text-normal), 0.2);
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 2px;
+    /* box-shadow: 1px 1px 1px rgba(var(--text-normal), 0.2); */
+    /* background-image: linear-gradient(rgba(0, 0, 255, 0.2), rgba(255, 255, 0, 0.2)); */
+    /* background-color: var(--text-accent-rgb); */
+    /* background-color: rgb(var(--text-accent-rgb), 0.2); */
+    /* color: #EBE5D8;
+    background-color: #4F576A; */
+    text-decoration: underline;
+    padding-left: 4em;
+    padding-right: 0.3em;
+} 

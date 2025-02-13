@@ -1,0 +1,29 @@
+.callout-asides {
+    /* 移除原有边框 */
+    border: none;
+    border-radius: 4px;
+    /* 使用更明显的渐变效果 */
+    background: linear-gradient(
+        to left,
+        rgba(var(--text-normal-rgb), 0.15) 0%,
+        rgba(var(--text-normal-rgb), 0.05) 100%
+    );
+    /* 添加右侧标识和阴影效果 */
+    border-right: 3px solid rgba(var(--text-accent-rgb), 0.5);
+    box-shadow: 0 2px 4px rgba(var(--text-normal-rgb), 0.1);
+    padding: 0.8em 1em 0.8em 1.5em;
+    margin: 1em 0;
+    /* 移除下划线 */
+    text-decoration: none;
+}
+
+/* 悬停效果加强 */
+.callout-asides:hover {
+    background: linear-gradient(
+        to left,
+        rgba(var(--text-accent-rgb), 0.15) 0%,
+        rgba(var(--text-accent-rgb), 0.05) 100%
+    );
+    border-right-color: rgba(var(--text-accent-rgb), 0.8);
+    box-shadow: 0 2px 8px rgba(var(--text-accent-rgb), 0.15);
+}
