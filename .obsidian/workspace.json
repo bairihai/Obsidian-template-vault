@@ -43,28 +43,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "示例文档（可删除）/示例文档3-今日计划（by deepseek）.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f5c88727f2a1a053",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "【模板等】/未命名.md",
-                "mode": "source",
+                "file": "【模板等】/5 annotation-aside.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -167,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "【模板等】/未命名.md",
+                "file": "【模板等】/5 annotation-aside.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "【模板等】/未命名.md",
+                "file": "【模板等】/5 annotation-aside.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "【模板等】/未命名.md"
+                "file": "【模板等】/5 annotation-aside.md"
               }
             }
           },
@@ -222,7 +209,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "【模板等】/未命名.md",
+                "file": "【模板等】/5 annotation-aside.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -294,17 +281,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f5c88727f2a1a053",
+  "active": "d9225fbd25a68100",
   "lastOpenFiles": [
+    "示例文档（可删除）/示例文档3-今日计划（by deepseek）.md",
+    "【模板等】/5 annotation-aside.md",
     "【模板等】/4 now-simple.md",
-    "【模板等】/未命名.md",
     "📢配置打包仓库的发行说明（可删除）.md",
     "📚导航页 Home Page.md",
     "示例文档（可删除）/示例文档4-CSS playground.md",
     "🛠️常用工具 My Tools.md",
     "【附件等】/按钮（for第三方插件buttons）/外链按钮集-2.md",
     "示例文档（可删除）/未命名.md",
-    "示例文档（可删除）/示例文档3-今日计划（by deepseek）.md",
     "示例文档（可删除）/示例文档1-伊洛纳抽卡.md",
     "📢启用本仓库之后，你的待办事项（可删除）.md",
     "示例文档（可删除）/示例文档2-永志.md",
