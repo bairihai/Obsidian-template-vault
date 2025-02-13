@@ -1,8 +1,8 @@
 /* 写法：2025年2月13日 10点21分 自制，参考obsidian devtools */
 /* 不可与github-pkmer边注共用。 */
-/* 写法形如： */
-.callout-asides {
-    border-color: rgb(var(--text-normal));
+/* 写法形如：<p align="right" class="callout-asides">  */
+ .callout-asides {
+    border-color: rgb(var(--text-normal), 0.2);
     border-width: 2px;
     border-style: solid;
     border-radius: 2px;
@@ -13,4 +13,33 @@
     background-color: #4F576A; */
     text-decoration: underline;
     padding-left: 4em;
+} 
+
+
+.callout-asides {
+    /* 移除原有边框 */
+    border: none;
+    border-radius: 4px;
+    /* 使用主题变量创建渐变，从右到左渐变 */
+    background: linear-gradient(
+        to left,
+        rgba(var(--text-normal-rgb), 0.08) 0%,
+        rgba(var(--text-normal-rgb), 0.03) 100%
+    );
+    /* 添加右侧标识 */
+    border-right: 3px solid rgba(var(--text-accent-rgb), 0.3);
+    padding: 0.8em 1em 0.8em 1.5em;
+    margin: 1em 0;
+    /* 移除下划线 */
+    text-decoration: none;
+}
+
+/* 悬停效果 */
+.callout-asides:hover {
+    background: linear-gradient(
+        to left,
+        rgba(var(--text-accent-rgb), 0.08) 0%,
+        rgba(var(--text-accent-rgb), 0.03) 100%
+    );
+    border-right-color: rgba(var(--text-accent-rgb), 0.5);
 }
