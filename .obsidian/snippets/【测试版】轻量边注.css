@@ -1,7 +1,7 @@
 /* 写法：2025年2月13日 10点21分 自制，参考obsidian devtools */
-p .callout-asides {
+.callout-asides {
     border-color: var(--text-normal);
-    border-width: 5px;
+    border-width: 2px;
     border-style: solid;
     border-radius: 2px;
 }
