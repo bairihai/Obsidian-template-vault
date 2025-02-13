@@ -15,3 +15,4 @@ aliases:
 
 <p align="right" class="callout-asides">好吧。似乎边注暂时还用不了。算了。</p>
 
+<p align="right" class="callout-asides">好吧。似乎边注暂时还用不了。算了。我自己写一个轻量版的边注/批注CSS，这个hai'bi</p>
