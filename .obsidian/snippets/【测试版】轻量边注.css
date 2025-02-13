@@ -1,4 +1,6 @@
 /* 写法：2025年2月13日 10点21分 自制，参考obsidian devtools */
+/* 不可与github-pkmer边注共用。 */
+/* 写法形如： */
 .callout-asides {
     border-color: var(--text-normal);
     border-width: 2px;
