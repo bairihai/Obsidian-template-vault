@@ -4,16 +4,17 @@
 
 .callout-asides {
     border-color: rgb(var(--text-normal), 0.2);
-    border-width: 2px;
+    border-width: 0.5px;
     border-style: solid;
     border-radius: 2px;
     /* box-shadow: 1px 1px 1px rgba(var(--text-normal), 0.2); */
-    /* background-image: linear-gradient(rgba(0, 0, 255, 0.2), rgba(255, 255, 0, 0.2)); */
+    background-image: linear-gradient(to left, rgba(0, 0, 255, 0.1), rgba(255, 255, 0, 0));
     /* background-color: var(--text-accent-rgb); */
     /* background-color: rgb(var(--text-accent-rgb), 0.2); */
     /* color: #EBE5D8;
     background-color: #4F576A; */
     text-decoration: underline;
+    text-decoration-thickness: 0.4px;
     padding-left: 4em;
     padding-right: 0.3em;
 } 

@@ -49,9 +49,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f5c88727f2a1a053",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "【模板等】/未命名.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -154,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📢配置打包仓库的发行说明（可删除）.md",
+                "file": "【模板等】/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📢配置打包仓库的发行说明（可删除）.md",
+                "file": "【模板等】/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📢配置打包仓库的发行说明（可删除）.md"
+                "file": "【模板等】/未命名.md"
               }
             }
           },
@@ -209,7 +222,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📢配置打包仓库的发行说明（可删除）.md",
+                "file": "【模板等】/未命名.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -281,10 +294,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cf581723eb1261ad",
+  "active": "f5c88727f2a1a053",
   "lastOpenFiles": [
-    "📚导航页 Home Page.md",
+    "【模板等】/4 now-simple.md",
+    "【模板等】/未命名.md",
     "📢配置打包仓库的发行说明（可删除）.md",
+    "📚导航页 Home Page.md",
     "示例文档（可删除）/示例文档4-CSS playground.md",
     "🛠️常用工具 My Tools.md",
     "【附件等】/按钮（for第三方插件buttons）/外链按钮集-2.md",
@@ -298,7 +313,6 @@
     "📢最佳实践：如何利用Beyond Compare将你的现有Obsidian vault升级为我们的预制库（可删除）.md",
     "【附件等】/按钮（for第三方插件buttons）/按钮集【普通按钮】.md",
     "【模板等】/3 refer.md",
-    "【模板等】/4 now-simple.md",
     "【模板等】/2 image.md",
     "【模板等】/【参考模板】REFER.md",
     "【模板等】/【参考模板】REFER-AI.md",
@@ -327,7 +341,6 @@
     "【模板等】/【文章模板】MD.md",
     "【模板等】/【闪念模板】ZONE.md",
     "参考资料：网络收藏.md",
-    "02.05-0225 凌晨.md",
-    "参考资料：AI生成.md"
+    "02.05-0225 凌晨.md"
   ]
 }
