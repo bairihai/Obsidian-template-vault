@@ -38,12 +38,12 @@
             }
           },
           {
-            "id": "613a6f19e702e634",
+            "id": "704bd16f37d4b2d8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "普通文章.md",
+                "file": "示例文档（可删除）/示例文档5-读书批注.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "普通文章.md",
+                "file": "示例文档（可删除）/示例文档5-读书批注.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "普通文章.md",
+                "file": "示例文档（可删除）/示例文档5-读书批注.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "普通文章.md"
+                "file": "示例文档（可删除）/示例文档5-读书批注.md"
               }
             }
           },
@@ -209,7 +209,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "普通文章.md",
+                "file": "示例文档（可删除）/示例文档5-读书批注.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -281,11 +281,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "613a6f19e702e634",
+  "active": "704bd16f37d4b2d8",
   "lastOpenFiles": [
-    "📢配置打包仓库的发行说明（可删除）.md",
-    "🛠️常用工具 My Tools.md",
     "普通文章.md",
+    "🛠️常用工具 My Tools.md",
+    "📢配置打包仓库的发行说明（可删除）.md",
     "示例文档（可删除）/示例文档5-读书批注.md",
     "示例文档（可删除）/assets/每日笔记、日程管理、工作复盘——这是我钻研出的 Obsidian 八般武艺 - 少数派.pdf",
     "示例文档（可删除）/示例文档4-CSS playground.md",
