@@ -57,15 +57,14 @@ graph LR
 ```mermaid
 graph LR
     A[按钮集【普通按钮】] -->|触发| Q[QuickAdd命令]
-    Q -->|使用| T[Templater模板]
+    Q -->|使用| T[【参考模板】REFER]
     T -->|生成| F[最终文档]
     style F fill:#4F576A
 
 
 class A internal-link;
-
+class T internal-link;
 ```
-
 
 [Buttons插件]([[按钮集【普通按钮】]])    [Templater模板（其中之一）]([[【参考模板】REFER]]) 
 
