@@ -17,3 +17,5 @@ aliases:
 飞书日历和谷歌日历同步比较好整，重点说说后面的番茄工作法+计划日历的处理。
 
 
+大致来说就是 `google candler` [插件](https://yukigasai.github.io/obsidian-google-calendar/Setup) 。先把日历同步过来，然后使用番茄工作法 
+
