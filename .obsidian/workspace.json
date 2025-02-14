@@ -49,22 +49,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "aa45bf695fad3d0b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "示例文档（可删除）/示例文档7-看视频.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -167,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "示例文档（可删除）/示例文档7-看视频.md",
+                "file": "示例文档（可删除）/示例文档6-飞书日历同步谷歌日历同步obsidian日记实现番茄计划.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "示例文档（可删除）/示例文档7-看视频.md",
+                "file": "示例文档（可删除）/示例文档6-飞书日历同步谷歌日历同步obsidian日记实现番茄计划.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "示例文档（可删除）/示例文档7-看视频.md"
+                "file": "示例文档（可删除）/示例文档6-飞书日历同步谷歌日历同步obsidian日记实现番茄计划.md"
               }
             }
           },
@@ -222,7 +209,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "示例文档（可删除）/示例文档7-看视频.md",
+                "file": "示例文档（可删除）/示例文档6-飞书日历同步谷歌日历同步obsidian日记实现番茄计划.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -296,10 +283,13 @@
       "media-extended:Open media": false
     }
   },
-  "active": "aa45bf695fad3d0b",
+  "active": "2d46add5d42fd169",
   "lastOpenFiles": [
+    "【附件等】/按钮（for第三方插件buttons）/外链按钮集-2.md",
+    "示例文档（可删除）/示例文档7-看视频media-extended.md",
+    "示例文档（可删除）/日记",
+    "未命名",
     "示例文档（可删除）/示例文档6-飞书日历同步谷歌日历同步obsidian日记实现番茄计划.md",
-    "示例文档（可删除）/示例文档7-看视频.md",
     "示例文档（可删除）/写作资料集.md",
     "示例文档（可删除）/示例文档5-读书批注.md",
     "示例文档（可删除）/未命名 1.md",
@@ -318,14 +308,12 @@
     "【模板等】/5 annotation-aside.md",
     "示例文档（可删除）/示例文档3-今日计划（by deepseek）.md",
     "【模板等】/4 now-simple.md",
-    "【附件等】/按钮（for第三方插件buttons）/外链按钮集-2.md",
     "示例文档（可删除）/示例文档1-伊洛纳抽卡.md",
     "示例文档（可删除）/示例文档2-永志.md",
     "【附件等】/附件管理规范.md",
     "【模板等】/(pin) task (lark & loose-leaf-book).md",
     "【模板等】/3 refer.md",
     "【模板等】/2 image.md",
-    "【模板等】/【参考模板】REFER.md",
     "【附件等】/pt-serif-pro-cufonfonts.zip",
     "【附件等】\\字体（重返未来1999）/",
     "【附件等】\\字体（重返未来1999）",
@@ -335,8 +323,6 @@
     "【附件等】/字体（重返未来1999）/pt-serif-pro-cufonfonts.zip",
     "【附件等】/assets/Pasted image 20250205084337.png",
     "【附件等】/assets/Pasted image 20250205084235.png",
-    "【附件等】/字体（重返未来1999）",
-    "【附件等】/新建文件夹",
     "assets/Pasted image 20250205045024.png",
     "assets/Pasted image 20250205044555.png",
     "assets/Pasted image 20250205042055.png",
