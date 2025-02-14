@@ -54,12 +54,15 @@
             "id": "2d46add5d42fd169",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "示例文档（可删除）/【参考资料：网络收藏】关于Dat Planner插件.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "示例文档（可删除）/未命名看板.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false
+                  ]
+                }
               }
             }
           }
@@ -167,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "示例文档（可删除）/【参考资料：网络收藏】关于Dat Planner插件.md",
+                "file": "示例文档（可删除）/未命名看板.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "示例文档（可删除）/【参考资料：网络收藏】关于Dat Planner插件.md",
+                "file": "示例文档（可删除）/未命名看板.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "示例文档（可删除）/【参考资料：网络收藏】关于Dat Planner插件.md"
+                "file": "示例文档（可删除）/未命名看板.md"
               }
             }
           },
@@ -222,7 +225,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "示例文档（可删除）/【参考资料：网络收藏】关于Dat Planner插件.md",
+                "file": "示例文档（可删除）/未命名看板.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -291,14 +294,16 @@
       "random-note:开始漫游笔记": false,
       "table-editor-obsidian:Advanced Tables Toolbar": true,
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "8dc072b6f0c03391",
+  "active": "2d46add5d42fd169",
   "lastOpenFiles": [
-    "🛠️常用工具 My Tools.md",
-    "示例文档（可删除）/【参考资料：网络收藏】关于Dat Planner插件.md",
     "示例文档（可删除）/示例文档5-读书批注.md",
+    "示例文档（可删除）/未命名看板.md",
+    "示例文档（可删除）/【参考资料：网络收藏】关于Dat Planner插件.md",
+    "🛠️常用工具 My Tools.md",
     "普通文章.md",
     "📢配置打包仓库的发行说明（可删除）.md",
     "示例文档（可删除）/assets/每日笔记、日程管理、工作复盘——这是我钻研出的 Obsidian 八般武艺 - 少数派.pdf",
@@ -340,7 +345,6 @@
     "示例文档（可删除）/assets/Pasted image 20250205033523.png",
     "示例文档（可删除）/assets/Pasted image 20250205033409.png",
     "【模板等】/【文章模板】MD.md",
-    "【模板等】/【闪念模板】ZONE.md",
-    "参考资料：网络收藏.md"
+    "【模板等】/【闪念模板】ZONE.md"
   ]
 }

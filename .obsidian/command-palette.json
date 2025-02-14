@@ -6,6 +6,7 @@
     "editor:cycle-list-checklist",
     "file-explorer:move-file",
     "daily-notes",
+    "obsidian-kanban:create-new-kanban-board",
     "note-refactor-obsidian:app:split-note-by-heading-h2",
     "multi-column-markdown:insert-multi-column-region",
     "buttons:button-maker",
