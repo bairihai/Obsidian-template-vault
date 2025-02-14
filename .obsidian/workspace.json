@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "示例文档（可删除）/示例文档6-飞书日历同步谷歌日历同步obsidian日记实现番茄计划.md",
+                "file": "📢配置打包仓库的发行说明（可删除）.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -146,7 +146,7 @@
       {
         "id": "b966c386616b70e8",
         "type": "tabs",
-        "dimension": 30.359355638166047,
+        "dimension": 32.71375464684015,
         "children": [
           {
             "id": "01e3cda5f2c0da5a",
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "示例文档（可删除）/示例文档6-飞书日历同步谷歌日历同步obsidian日记实现番茄计划.md",
+                "file": "📢配置打包仓库的发行说明（可删除）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "示例文档（可删除）/示例文档6-飞书日历同步谷歌日历同步obsidian日记实现番茄计划.md",
+                "file": "📢配置打包仓库的发行说明（可删除）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "示例文档（可删除）/示例文档6-飞书日历同步谷歌日历同步obsidian日记实现番茄计划.md"
+                "file": "📢配置打包仓库的发行说明（可删除）.md"
               }
             }
           },
@@ -201,7 +201,7 @@
       {
         "id": "86c42c8b27a44571",
         "type": "tabs",
-        "dimension": 69.64064436183395,
+        "dimension": 67.28624535315984,
         "children": [
           {
             "id": "925ce951683fd300",
@@ -209,7 +209,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "示例文档（可删除）/示例文档6-飞书日历同步谷歌日历同步obsidian日记实现番茄计划.md",
+                "file": "📢配置打包仓库的发行说明（可删除）.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -285,20 +285,21 @@
   },
   "active": "2d46add5d42fd169",
   "lastOpenFiles": [
+    "📢启用本仓库之后，你的待办事项（可删除）.md",
+    "📢最佳实践：如何利用Beyond Compare将你的现有Obsidian vault升级为我们的预制库（可删除）.md",
+    "📢配置打包仓库的发行说明（可删除）.md",
+    "🛠️常用工具 My Tools.md",
+    "【模板等】/edit (simple).md",
+    "示例文档（可删除）/示例文档6-飞书日历同步谷歌日历同步obsidian日记实现番茄计划.md",
     "【附件等】/按钮（for第三方插件buttons）/外链按钮集-2.md",
     "示例文档（可删除）/示例文档7-看视频media-extended.md",
     "示例文档（可删除）/日记",
     "未命名",
-    "示例文档（可删除）/示例文档6-飞书日历同步谷歌日历同步obsidian日记实现番茄计划.md",
     "示例文档（可删除）/写作资料集.md",
     "示例文档（可删除）/示例文档5-读书批注.md",
     "示例文档（可删除）/未命名 1.md",
     "示例文档（可删除）/02.14-1027 上午.md",
     "示例文档（可删除）/assets/Pasted image 20250214103250.png",
-    "🛠️常用工具 My Tools.md",
-    "📢配置打包仓库的发行说明（可删除）.md",
-    "📢启用本仓库之后，你的待办事项（可删除）.md",
-    "📢最佳实践：如何利用Beyond Compare将你的现有Obsidian vault升级为我们的预制库（可删除）.md",
     "示例文档（可删除）/未命名.md",
     "📚导航页 Home Page.md",
     "【附件等】/按钮（for第三方插件buttons）/按钮集【普通按钮】.md",
