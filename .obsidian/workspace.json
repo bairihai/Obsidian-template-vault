@@ -56,7 +56,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "【模板等】/【日记模板】DAILY.md",
+                "file": "📢【必看】两种日记模式（可删除）.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -167,7 +167,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "【模板等】/【日记模板】DAILY.md"
+                "file": "📢【必看】两种日记模式（可删除）.md"
               }
             }
           },
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "【模板等】/【日记模板】DAILY.md"
+                "file": "📢【必看】两种日记模式（可删除）.md"
               }
             }
           },
@@ -215,7 +215,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "【模板等】/【日记模板】DAILY.md",
+                "file": "📢【必看】两种日记模式（可删除）.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -258,7 +258,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "【模板等】/【日记模板】DAILY.md",
+                "file": "📢【必看】两种日记模式（可删除）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -275,7 +275,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "【模板等】/【日记模板】DAILY.md",
+                "file": "📢【必看】两种日记模式（可删除）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -318,20 +318,21 @@
       "media-extended:Open media": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "card-board:CardBoard": false
     }
   },
   "active": "c053f5c931353aef",
   "lastOpenFiles": [
+    "📢最佳实践：如何利用Beyond Compare将你的现有Obsidian vault升级为我们的预制库（可删除）.md",
+    "【模板等】/【日记模板】DAILY.md",
     "示例文档（可删除）/日记/02.14-1204 中午.md",
     "📢【必看】两种日记模式（可删除）.md",
     "🛠️常用工具 My Tools.md",
     "📢启用本仓库之后，你的待办事项（可删除）.md",
-    "【模板等】/【日记模板】DAILY.md",
     "📚导航页 Home Page.md",
     "示例文档（可删除）/示例文档3-今日计划（by deepseek）.md",
     "📢配置打包仓库的发行说明（可删除）.md",
-    "📢最佳实践：如何利用Beyond Compare将你的现有Obsidian vault升级为我们的预制库（可删除）.md",
     "示例文档（可删除）/assets/每日笔记、日程管理、工作复盘——这是我钻研出的 Obsidian 八般武艺 - 少数派.pdf",
     "示例文档（可删除）/示例文档5-读书批注.md",
     "示例文档（可删除）/示例文档7-看视频media-extended.md",
