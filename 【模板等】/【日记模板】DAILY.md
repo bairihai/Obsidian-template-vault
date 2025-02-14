@@ -12,9 +12,11 @@ aliases:
 ---
 <% tp.file.cursor() %> <%* app.workspace.activeLeaf.view.editor?.focus(); %>
 
-## 日程
+## 日程 Plan & Review
 
-## 闪念
 
-## 正文
+
+## 闪念 Memos Zone
+
+## 正文 Daily Note
 
