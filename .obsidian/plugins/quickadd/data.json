@@ -88,7 +88,7 @@
       "id": "d1d62463-0dc6-448f-97c6-9894c6fb2f57",
       "name": "闪念笔记",
       "type": "Capture",
-      "command": false,
+      "command": true,
       "appendLink": false,
       "captureTo": "示例文档（可删除）/日记/{{DATE:MM.DD}}",
       "captureToActiveFile": false,
@@ -102,9 +102,9 @@
         "format": ""
       },
       "insertAfter": {
-        "enabled": false,
-        "after": "",
-        "insertAtEnd": false,
+        "enabled": true,
+        "after": "## 闪念 Memos Zone",
+        "insertAtEnd": true,
         "considerSubsections": false,
         "createIfNotFound": false,
         "createIfNotFoundLocation": "top"
@@ -121,7 +121,7 @@
     }
   ],
   "macros": [],
-  "inputPrompt": "single-line",
+  "inputPrompt": "multi-line",
   "devMode": false,
   "templateFolderPath": "【模板等】",
   "announceUpdates": true,
