@@ -43,10 +43,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📢配置打包仓库的发行说明（可删除）.md",
+                "file": "【模板等】/【文章模板】MD.md",
                 "mode": "source",
                 "backlinks": true,
-                "source": false
+                "source": true
               }
             }
           }
@@ -149,31 +149,24 @@
         "dimension": 32.71375464684015,
         "children": [
           {
-            "id": "01e3cda5f2c0da5a",
+            "id": "99658c05df54d91f",
             "type": "leaf",
             "state": {
-              "type": "backlink",
+              "type": "file-properties",
               "state": {
-                "file": "📢配置打包仓库的发行说明（可删除）.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "file": "【模板等】/【文章模板】MD.md"
               }
             }
           },
           {
-            "id": "0f07321d581e0ab8",
+            "id": "c4db0f14bc9d625e",
             "type": "leaf",
             "state": {
-              "type": "outgoing-link",
+              "type": "all-properties",
               "state": {
-                "file": "📢配置打包仓库的发行说明（可删除）.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           },
@@ -183,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📢配置打包仓库的发行说明（可删除）.md"
+                "file": "【模板等】/【文章模板】MD.md"
               }
             }
           },
@@ -209,7 +202,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📢配置打包仓库的发行说明（可删除）.md",
+                "file": "【模板等】/【文章模板】MD.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -247,6 +240,35 @@
             }
           },
           {
+            "id": "01e3cda5f2c0da5a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "【模板等】/【文章模板】MD.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0f07321d581e0ab8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "【模板等】/【文章模板】MD.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
             "id": "da45926798b00746",
             "type": "leaf",
             "state": {
@@ -260,7 +282,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -285,10 +307,13 @@
   },
   "active": "2d46add5d42fd169",
   "lastOpenFiles": [
-    "📢最佳实践：如何利用Beyond Compare将你的现有Obsidian vault升级为我们的预制库（可删除）.md",
-    "📢启用本仓库之后，你的待办事项（可删除）.md",
+    "【模板等】/【闪念模板】ZONE.md",
+    "【模板等】/【日历模板】DAILY.md",
+    "示例文档（可删除）/日记/02.14-1204 中午.md",
     "📢配置打包仓库的发行说明（可删除）.md",
     "🛠️常用工具 My Tools.md",
+    "📢最佳实践：如何利用Beyond Compare将你的现有Obsidian vault升级为我们的预制库（可删除）.md",
+    "📢启用本仓库之后，你的待办事项（可删除）.md",
     "【模板等】/edit (simple).md",
     "示例文档（可删除）/示例文档6-飞书日历同步谷歌日历同步obsidian日记实现番茄计划.md",
     "【附件等】/按钮（for第三方插件buttons）/外链按钮集-2.md",
@@ -312,9 +337,6 @@
     "示例文档（可删除）/示例文档1-伊洛纳抽卡.md",
     "示例文档（可删除）/示例文档2-永志.md",
     "【附件等】/附件管理规范.md",
-    "【模板等】/(pin) task (lark & loose-leaf-book).md",
-    "【模板等】/3 refer.md",
-    "【模板等】/2 image.md",
     "【附件等】/pt-serif-pro-cufonfonts.zip",
     "【附件等】\\字体（重返未来1999）/",
     "【附件等】\\字体（重返未来1999）",
