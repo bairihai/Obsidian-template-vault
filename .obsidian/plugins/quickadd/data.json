@@ -98,14 +98,14 @@
         "template": ""
       },
       "format": {
-        "enabled": false,
-        "format": ""
+        "enabled": true,
+        "format": "### {{time}}\n\n1"
       },
       "insertAfter": {
         "enabled": true,
         "after": "## 闪念 Memos Zone",
         "insertAtEnd": true,
-        "considerSubsections": false,
+        "considerSubsections": true,
         "createIfNotFound": false,
         "createIfNotFoundLocation": "top"
       },
