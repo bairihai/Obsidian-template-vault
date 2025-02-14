@@ -280,7 +280,8 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true,
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
       "templater-obsidian:Templater": false,
-      "obsidian-kanban:创建新看板": false
+      "obsidian-kanban:创建新看板": false,
+      "media-extended:Open media": false
     }
   },
   "active": "2d46add5d42fd169",
