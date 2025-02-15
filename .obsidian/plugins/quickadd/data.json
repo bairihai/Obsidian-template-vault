@@ -86,7 +86,7 @@
     },
     {
       "id": "d1d62463-0dc6-448f-97c6-9894c6fb2f57",
-      "name": "闪念笔记",
+      "name": "日记操作：闪念笔记",
       "type": "Capture",
       "command": true,
       "appendLink": false,
