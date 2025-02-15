@@ -2,5 +2,5 @@
   "format": "MM.DD",
   "template": "【模板等】/【日记模板】DAILY",
   "folder": "示例文档（可删除）/日记",
-  "autorun": false
+  "autorun": true
 }
