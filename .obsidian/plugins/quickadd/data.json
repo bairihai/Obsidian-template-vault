@@ -121,7 +121,7 @@
     },
     {
       "id": "13c07b3a-da9e-4416-a40f-e53a67103532",
-      "name": "日记操作：闪念笔记 (copy)",
+      "name": "日记操作：规划",
       "type": "Capture",
       "command": true,
       "appendLink": false,
@@ -134,11 +134,11 @@
       },
       "format": {
         "enabled": true,
-        "format": "### {{time}} \\n \\n {{value}}"
+        "format": "| {{time}- {{value: 如果有截止时间，截止到今日几点几分？}} | {{VALUE: 打算干点什么？}} |"
       },
       "insertAfter": {
         "enabled": true,
-        "after": "## 闪念 Memos Zone",
+        "after": "### 计划",
         "insertAtEnd": true,
         "considerSubsections": true,
         "createIfNotFound": false,
@@ -156,7 +156,7 @@
     },
     {
       "id": "322269c2-a883-4c21-b658-2ed00457d0ac",
-      "name": "日记操作：闪念笔记 (copy)",
+      "name": "日记操作：流水帐",
       "type": "Capture",
       "command": true,
       "appendLink": false,
@@ -169,11 +169,11 @@
       },
       "format": {
         "enabled": true,
-        "format": "### {{time}} \\n \\n {{value}}"
+        "format": "- {{time}} {{value:刚才完成什么了？}}"
       },
       "insertAfter": {
         "enabled": true,
-        "after": "## 闪念 Memos Zone",
+        "after": "### 计划",
         "insertAtEnd": true,
         "considerSubsections": true,
         "createIfNotFound": false,

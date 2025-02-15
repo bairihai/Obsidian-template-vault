@@ -56,10 +56,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🛠️常用工具 My Tools.md",
+                "file": "【模板等】/新建模板/【日记模板】DAILY.md",
                 "mode": "source",
                 "backlinks": true,
-                "source": false
+                "source": true
               }
             }
           },
@@ -335,14 +335,14 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "55287f9b4268094f",
+  "active": "da45926798b00746",
   "lastOpenFiles": [
+    "【模板等】/新建模板/【日记模板】DAILY.md",
+    "🛠️常用工具 My Tools.md",
     "【附件等】/按钮（for第三方插件buttons）/按钮集【日记操作】.md",
     "📢配置打包仓库的发行说明（可删除）.md",
-    "🛠️常用工具 My Tools.md",
     "【附件等】/按钮（for第三方插件buttons）/按钮集【普通按钮】.md",
     "【附件等】/按钮（for第三方插件buttons）/外链按钮集-2.md",
-    "【模板等】/新建模板/【日记模板】DAILY.md",
     "【模板等】/新建模板",
     "📢【必看】两种日记模式（可删除）.md",
     "📢启用本仓库之后，你的待办事项（可删除）.md",
