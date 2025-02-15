@@ -118,6 +118,76 @@
       },
       "openFile": true,
       "openFileInMode": "default"
+    },
+    {
+      "id": "13c07b3a-da9e-4416-a40f-e53a67103532",
+      "name": "日记操作：闪念笔记 (copy)",
+      "type": "Capture",
+      "command": true,
+      "appendLink": false,
+      "captureTo": "示例文档（可删除）/日记/{{DATE:MM.DD}}",
+      "captureToActiveFile": false,
+      "createFileIfItDoesntExist": {
+        "enabled": false,
+        "createWithTemplate": false,
+        "template": ""
+      },
+      "format": {
+        "enabled": true,
+        "format": "### {{time}} \\n \\n {{value}}"
+      },
+      "insertAfter": {
+        "enabled": true,
+        "after": "## 闪念 Memos Zone",
+        "insertAtEnd": true,
+        "considerSubsections": true,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top"
+      },
+      "prepend": false,
+      "task": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "322269c2-a883-4c21-b658-2ed00457d0ac",
+      "name": "日记操作：闪念笔记 (copy)",
+      "type": "Capture",
+      "command": true,
+      "appendLink": false,
+      "captureTo": "示例文档（可删除）/日记/{{DATE:MM.DD}}",
+      "captureToActiveFile": false,
+      "createFileIfItDoesntExist": {
+        "enabled": false,
+        "createWithTemplate": false,
+        "template": ""
+      },
+      "format": {
+        "enabled": true,
+        "format": "### {{time}} \\n \\n {{value}}"
+      },
+      "insertAfter": {
+        "enabled": true,
+        "after": "## 闪念 Memos Zone",
+        "insertAtEnd": true,
+        "considerSubsections": true,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top"
+      },
+      "prepend": false,
+      "task": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default"
     }
   ],
   "macros": [],
