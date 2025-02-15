@@ -14,9 +14,9 @@ cssclasses:
 
 > [!tldr|style-4 anp-vanilla-normal center]+ Quick Add 日记操作
 > 
-> 【记录流水帐】
-> 【规划日程】
-> 【闪念memos zone】
+>  `button-memosZone` 
+>  
+>  `button-runningAccount` `button-dailyPlan`
 
 <div style="height: 20px"></div>
 
