@@ -49,9 +49,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "135684b54dcd06ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🛠️常用工具 My Tools.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -154,7 +167,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "📢【必看】两种日记模式（可删除）.md"
+                "file": "🛠️常用工具 My Tools.md"
               }
             }
           },
@@ -176,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📢【必看】两种日记模式（可删除）.md"
+                "file": "🛠️常用工具 My Tools.md"
               }
             }
           },
@@ -202,7 +215,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📢【必看】两种日记模式（可删除）.md",
+                "file": "🛠️常用工具 My Tools.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -245,7 +258,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📢【必看】两种日记模式（可删除）.md",
+                "file": "🛠️常用工具 My Tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -262,7 +275,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📢【必看】两种日记模式（可删除）.md",
+                "file": "🛠️常用工具 My Tools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -309,7 +322,7 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "094e44bcce34385d",
+  "active": "135684b54dcd06ca",
   "lastOpenFiles": [
     "示例文档（可删除）/日记/02.15.md",
     "📢【必看】两种日记模式（可删除）.md",

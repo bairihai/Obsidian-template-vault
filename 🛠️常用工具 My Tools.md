@@ -10,7 +10,6 @@ cssclasses:
 
 > [!note|style-4 anp-vanilla-normal center]+ Quick Add 标准化新建
 > 
-> `button-zone` 
 > 
 > `button-md`
 > 
