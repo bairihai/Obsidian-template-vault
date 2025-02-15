@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📢【必看】两种日记模式（可删除）.md",
+                "file": "【模板等】/【日记模板】DAILY.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -167,7 +167,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "📢配置打包仓库的发行说明（可删除）.md"
+                "file": "【模板等】/【日记模板】DAILY.md"
               }
             }
           },
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📢配置打包仓库的发行说明（可删除）.md"
+                "file": "【模板等】/【日记模板】DAILY.md"
               }
             }
           },
@@ -215,7 +215,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📢配置打包仓库的发行说明（可删除）.md",
+                "file": "【模板等】/【日记模板】DAILY.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -258,7 +258,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📢配置打包仓库的发行说明（可删除）.md",
+                "file": "【模板等】/【日记模板】DAILY.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -275,7 +275,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📢配置打包仓库的发行说明（可删除）.md",
+                "file": "【模板等】/【日记模板】DAILY.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -322,11 +322,12 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "135684b54dcd06ca",
+  "active": "8dc072b6f0c03391",
   "lastOpenFiles": [
-    "📢启用本仓库之后，你的待办事项（可删除）.md",
-    "📢配置打包仓库的发行说明（可删除）.md",
+    "【模板等】/未命名",
     "📢【必看】两种日记模式（可删除）.md",
+    "📢配置打包仓库的发行说明（可删除）.md",
+    "📢启用本仓库之后，你的待办事项（可删除）.md",
     "示例文档（可删除）/日记/02.15.md",
     "assets/Pasted image 20250215113805.png",
     "assets/Pasted image 20250215113210.png",
