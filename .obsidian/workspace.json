@@ -49,9 +49,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cffe10630810d5ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "示例文档（可删除）/日记/02.16.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -309,7 +322,7 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "a74715f567e5d0fa",
+  "active": "cffe10630810d5ad",
   "lastOpenFiles": [
     "🛠️常用工具 My Tools.md",
     "示例文档（可删除）/日记/02.16.md",
