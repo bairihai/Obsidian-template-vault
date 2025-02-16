@@ -38,33 +38,7 @@
             }
           },
           {
-            "id": "cf5959e7f39d1647",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "示例文档（可删除）/日记/02.16.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ea01f742867426d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "示例文档（可删除）/日记/02.16.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d1a896a6a12b83f4",
+            "id": "a74715f567e5d0fa",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -77,7 +51,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -180,7 +154,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "🛠️常用工具 My Tools.md"
+                "file": "示例文档（可删除）/日记/02.16.md"
               }
             }
           },
@@ -202,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🛠️常用工具 My Tools.md"
+                "file": "示例文档（可删除）/日记/02.16.md"
               }
             }
           },
@@ -228,7 +202,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "🛠️常用工具 My Tools.md",
+                "file": "示例文档（可删除）/日记/02.16.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -271,7 +245,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🛠️常用工具 My Tools.md",
+                "file": "示例文档（可删除）/日记/02.16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -288,7 +262,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🛠️常用工具 My Tools.md",
+                "file": "示例文档（可删除）/日记/02.16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -335,10 +309,10 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "349dc452a2cf1618",
+  "active": "a74715f567e5d0fa",
   "lastOpenFiles": [
-    "示例文档（可删除）/日记/02.16.md",
     "🛠️常用工具 My Tools.md",
+    "示例文档（可删除）/日记/02.16.md",
     "📢【必看】两种日记模式（可删除）.md",
     "示例文档（可删除）/日记/02.15-0652 早上.md",
     "📢配置打包仓库的发行说明（可删除）.md",
