@@ -38,7 +38,7 @@
             }
           },
           {
-            "id": "5d97a6e92bf3c53e",
+            "id": "cf5959e7f39d1647",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -305,10 +305,11 @@
       "media-extended:Open media": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "card-board:CardBoard": false
     }
   },
-  "active": "5d97a6e92bf3c53e",
+  "active": "cf5959e7f39d1647",
   "lastOpenFiles": [
     "🛠️常用工具 My Tools.md",
     "示例文档（可删除）/日记/02.16.md",
