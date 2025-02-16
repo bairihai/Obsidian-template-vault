@@ -38,7 +38,7 @@
             }
           },
           {
-            "id": "9fa73adb561a8617",
+            "id": "9247837145761192",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -154,7 +154,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "示例文档（可删除）/日记/02.17.md"
+                "file": "🛠️常用工具 My Tools.md"
               }
             }
           },
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "示例文档（可删除）/日记/02.17.md"
+                "file": "🛠️常用工具 My Tools.md"
               }
             }
           },
@@ -202,7 +202,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "示例文档（可删除）/日记/02.17.md",
+                "file": "🛠️常用工具 My Tools.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -245,7 +245,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "示例文档（可删除）/日记/02.17.md",
+                "file": "🛠️常用工具 My Tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -262,7 +262,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "示例文档（可删除）/日记/02.17.md",
+                "file": "🛠️常用工具 My Tools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -311,13 +311,13 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "9fa73adb561a8617",
+  "active": "8e9d8928b44be1b7",
   "lastOpenFiles": [
-    "示例文档（可删除）/日记/02.16.md",
     "示例文档（可删除）/日记/02.17.md",
+    "示例文档（可删除）/日记/02.16.md",
     "📢配置打包仓库的发行说明（可删除）.md",
-    "【模板等】/新建模板/【日记模板】DAILY.md",
     "🛠️常用工具 My Tools.md",
+    "【模板等】/新建模板/【日记模板】DAILY.md",
     "📢【必看】两种日记模式（可删除）.md",
     "示例文档（可删除）/日记/02.15-0652 早上.md",
     "示例文档（可删除）/日记/02.15.md",

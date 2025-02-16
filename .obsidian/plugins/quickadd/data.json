@@ -116,7 +116,7 @@
         "direction": "vertical",
         "focus": true
       },
-      "openFile": true,
+      "openFile": false,
       "openFileInMode": "default"
     },
     {
@@ -151,7 +151,7 @@
         "direction": "vertical",
         "focus": true
       },
-      "openFile": true,
+      "openFile": false,
       "openFileInMode": "default"
     },
     {
@@ -186,7 +186,7 @@
         "direction": "vertical",
         "focus": true
       },
-      "openFile": true,
+      "openFile": false,
       "openFileInMode": "default"
     }
   ],
