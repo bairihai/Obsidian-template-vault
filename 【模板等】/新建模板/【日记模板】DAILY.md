@@ -32,3 +32,5 @@ aliases:
 ## 正文 Daily Note
 
 <% tp.file.cursor() %> <%* app.workspace.activeLeaf.view.editor?.focus(); %>
+
+## 图集 Media Gallery

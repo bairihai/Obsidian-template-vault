@@ -134,7 +134,7 @@
       },
       "format": {
         "enabled": true,
-        "format": "| {{time}}- {{VALUE: 如果有截止时间，截止到今日几点几分？}} | {{VALUE: 打算干点什么？}} |"
+        "format": "| {{time}}- {{VALUE: 如果有截止时间，截止到今日几点几分？}} | {{VALUE: 打算干点什么？}} |\\n"
       },
       "insertAfter": {
         "enabled": true,
