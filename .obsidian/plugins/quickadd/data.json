@@ -99,7 +99,7 @@
       },
       "format": {
         "enabled": true,
-        "format": "### {{time}} \\n \\n {{value}}"
+        "format": "### {{time}}\\n{{value}}\\n"
       },
       "insertAfter": {
         "enabled": true,
