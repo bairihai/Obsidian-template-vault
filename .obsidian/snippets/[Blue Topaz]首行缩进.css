@@ -1,4 +1,5 @@
 /* https://forum-zh.obsidian.md/t/topic/7261/5 论坛里面从BT(blue topaz）主题扒下来的 */
+/* 必须得在yaml声明cssclass: indent，此时可以对这篇笔记生效(编辑模式) */
 
 source-view.mod-cm6 div.cm-line:not(.HyperMD-header),
 .markdown-source-view.mod-cm6.indent div.cm-line:not(.HyperMD-header) {
