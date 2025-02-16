@@ -287,8 +287,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🛠️常用工具 My Tools.md",
-                "mode": "preview",
+                "file": "示例文档（可删除）/日记/02.16.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -321,10 +321,10 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "cffe10630810d5ad",
+  "active": "349dc452a2cf1618",
   "lastOpenFiles": [
-    "🛠️常用工具 My Tools.md",
     "示例文档（可删除）/日记/02.16.md",
+    "🛠️常用工具 My Tools.md",
     "📢【必看】两种日记模式（可删除）.md",
     "示例文档（可删除）/日记/02.15-0652 早上.md",
     "📢配置打包仓库的发行说明（可删除）.md",
