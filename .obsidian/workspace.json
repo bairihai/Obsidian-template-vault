@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "示例文档（可删除）/日记/02.16.md",
+                "file": "示例文档（可删除）/日记/02.17.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -154,7 +154,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "示例文档（可删除）/日记/02.16.md"
+                "file": "示例文档（可删除）/日记/02.17.md"
               }
             }
           },
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "示例文档（可删除）/日记/02.16.md"
+                "file": "示例文档（可删除）/日记/02.17.md"
               }
             }
           },
@@ -202,7 +202,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "示例文档（可删除）/日记/02.16.md",
+                "file": "示例文档（可删除）/日记/02.17.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -245,7 +245,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "示例文档（可删除）/日记/02.16.md",
+                "file": "示例文档（可删除）/日记/02.17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -262,7 +262,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "示例文档（可删除）/日记/02.16.md",
+                "file": "示例文档（可删除）/日记/02.17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -313,8 +313,9 @@
   },
   "active": "9fa73adb561a8617",
   "lastOpenFiles": [
-    "📢配置打包仓库的发行说明（可删除）.md",
     "示例文档（可删除）/日记/02.16.md",
+    "示例文档（可删除）/日记/02.17.md",
+    "📢配置打包仓库的发行说明（可删除）.md",
     "【模板等】/新建模板/【日记模板】DAILY.md",
     "🛠️常用工具 My Tools.md",
     "📢【必看】两种日记模式（可删除）.md",
