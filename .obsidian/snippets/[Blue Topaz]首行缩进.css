@@ -1,0 +1,19 @@
+/* https://forum-zh.obsidian.md/t/topic/7261/5 论坛里面从BT(blue topaz）主题扒下来的 */
+
+source-view.mod-cm6 div.cm-line:not(.HyperMD-header),
+.markdown-source-view.mod-cm6.indent div.cm-line:not(.HyperMD-header) {
+  text-indent: 2em;
+}
+
+body.text-indentation-two-em .markdown-source-view.mod-cm6 div.cm-line:not(.HyperMD-header) .cm-hmd-frontmatter:first-of-type,
+.markdown-source-view.mod-cm6.indent div.cm-line:not(.HyperMD-header) .cm-hmd-frontmatter:first-of-type {
+  margin-left: -2em;
+}
+
+body.text-indentation-two-em .markdown-source-view.mod-cm6 div.has-banner.cm-line:not(.HyperMD-header) .cm-def.cm-hmd-frontmatter,
+body.text-indentation-two-em .markdown-source-view.mod-cm6 div.has-banner.cm-line:not(.HyperMD-header) .collapse-indicator,
+.markdown-source-view.mod-cm6.indent div.has-banner.cm-line:not(.HyperMD-header) .cm-def.cm-hmd-frontmatter,
+.markdown-source-view.mod-cm6.indent div.has-banner.cm-line:not(.HyperMD-header) .collapse-indicator {
+  margin-left: 0;
+  left: -3em;
+}
