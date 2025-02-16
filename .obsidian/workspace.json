@@ -51,20 +51,7 @@
             }
           },
           {
-            "id": "877205bfc0b2647f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "示例文档（可删除）/日记/02.16.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3772bae21cf30fc8",
+            "id": "33501c83d3cabe6b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -77,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -335,7 +322,7 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "3772bae21cf30fc8",
+  "active": "33501c83d3cabe6b",
   "lastOpenFiles": [
     "🛠️常用工具 My Tools.md",
     "示例文档（可删除）/日记/02.16.md",
