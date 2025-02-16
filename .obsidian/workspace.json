@@ -38,84 +38,6 @@
             }
           },
           {
-            "id": "431b28afea8800ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "示例文档（可删除）/日记/02.16.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c7de54c0463e27f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "示例文档（可删除）/日记/02.16.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "70bb1d3d1ace8c4d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "示例文档（可删除）/日记/02.16.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "73204a1ce91a5cf5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "示例文档（可删除）/日记/02.16.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5853767849f54229",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "示例文档（可删除）/日记/02.16.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6b05582b7dbe0a4d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "示例文档（可删除）/日记/02.16.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "5d97a6e92bf3c53e",
             "type": "leaf",
             "state": {
@@ -129,7 +51,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -224,7 +146,7 @@
       {
         "id": "b966c386616b70e8",
         "type": "tabs",
-        "dimension": 32.71375464684015,
+        "dimension": 56.50557620817844,
         "children": [
           {
             "id": "99658c05df54d91f",
@@ -272,7 +194,7 @@
       {
         "id": "86c42c8b27a44571",
         "type": "tabs",
-        "dimension": 67.28624535315984,
+        "dimension": 43.49442379182156,
         "children": [
           {
             "id": "925ce951683fd300",
@@ -383,8 +305,7 @@
       "media-extended:Open media": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false,
-      "card-board:CardBoard": false
+      "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
   "active": "5d97a6e92bf3c53e",
