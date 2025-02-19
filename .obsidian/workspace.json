@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "示例文档（可删除）/日记/02.18.md",
+                "file": "示例文档（可删除）/日记/02.19.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -154,7 +154,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "示例文档（可删除）/日记/02.18.md"
+                "file": "示例文档（可删除）/日记/02.19.md"
               }
             }
           },
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "示例文档（可删除）/日记/02.18.md"
+                "file": "示例文档（可删除）/日记/02.19.md"
               }
             }
           },
@@ -202,7 +202,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "示例文档（可删除）/日记/02.18.md",
+                "file": "示例文档（可删除）/日记/02.19.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -245,7 +245,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "示例文档（可删除）/日记/02.18.md",
+                "file": "示例文档（可删除）/日记/02.19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -262,7 +262,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "示例文档（可删除）/日记/02.18.md",
+                "file": "示例文档（可删除）/日记/02.19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -314,6 +314,7 @@
   "active": "9247837145761192",
   "lastOpenFiles": [
     "🛠️常用工具 My Tools.md",
+    "示例文档（可删除）/日记/02.19.md",
     "示例文档（可删除）/日记/02.18.md",
     "示例文档（可删除）/日记/02.17.md",
     "示例文档（可删除）/日记/02.16.md",
@@ -348,7 +349,6 @@
     "示例文档（可删除）/示例文档6-飞书日历同步谷歌日历同步obsidian日记实现番茄计划.md",
     "示例文档（可删除）/示例文档4-CSS playground.md",
     "示例文档（可删除）/未命名.md",
-    "示例文档（可删除）/未命名 1.md",
     "示例文档（可删除）/日记",
     "未命名",
     "示例文档（可删除）/assets/Pasted image 20250214103250.png",
