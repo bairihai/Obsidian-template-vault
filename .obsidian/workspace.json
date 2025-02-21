@@ -41,13 +41,8 @@
             "id": "9247837145761192",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "示例文档（可删除）/日记/02.19.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -154,7 +149,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "🛠️常用工具 My Tools.md"
+                "file": "示例文档（可删除）/日记/02.21.md"
               }
             }
           },
@@ -176,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🛠️常用工具 My Tools.md"
+                "file": "示例文档（可删除）/日记/02.21.md"
               }
             }
           },
@@ -202,7 +197,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "🛠️常用工具 My Tools.md",
+                "file": "示例文档（可删除）/日记/02.21.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -245,7 +240,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🛠️常用工具 My Tools.md",
+                "file": "示例文档（可删除）/日记/02.21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -262,7 +257,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🛠️常用工具 My Tools.md",
+                "file": "示例文档（可删除）/日记/02.21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -307,13 +302,15 @@
       "media-extended:Open media": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "card-board:CardBoard": false
     }
   },
-  "active": "8e9d8928b44be1b7",
+  "active": "9247837145761192",
   "lastOpenFiles": [
-    "示例文档（可删除）/日记/02.19.md",
     "🛠️常用工具 My Tools.md",
+    "示例文档（可删除）/日记/02.21.md",
+    "示例文档（可删除）/日记/02.19.md",
     "示例文档（可删除）/日记/02.18.md",
     "示例文档（可删除）/日记/02.17.md",
     "示例文档（可删除）/日记/02.16.md",
@@ -347,7 +344,6 @@
     "示例文档（可删除）/示例文档7-看视频media-extended.md",
     "示例文档（可删除）/示例文档6-飞书日历同步谷歌日历同步obsidian日记实现番茄计划.md",
     "示例文档（可删除）/示例文档4-CSS playground.md",
-    "示例文档（可删除）/未命名.md",
     "示例文档（可删除）/日记",
     "未命名",
     "示例文档（可删除）/assets/Pasted image 20250214103250.png",
