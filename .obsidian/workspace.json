@@ -41,8 +41,13 @@
             "id": "9247837145761192",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "【模板等】/新建模板/【参考模板】REFER.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
@@ -149,7 +154,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "示例文档（可删除）/日记/02.21.md"
+                "file": "【模板等】/新建模板/【参考模板】REFER.md"
               }
             }
           },
@@ -171,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "示例文档（可删除）/日记/02.21.md"
+                "file": "【模板等】/新建模板/【参考模板】REFER.md"
               }
             }
           },
@@ -197,7 +202,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "示例文档（可删除）/日记/02.21.md",
+                "file": "【模板等】/新建模板/【参考模板】REFER.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -240,7 +245,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "示例文档（可删除）/日记/02.21.md",
+                "file": "【模板等】/新建模板/【参考模板】REFER.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -257,7 +262,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "示例文档（可删除）/日记/02.21.md",
+                "file": "【模板等】/新建模板/【参考模板】REFER.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -302,12 +307,13 @@
       "media-extended:Open media": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false,
-      "card-board:CardBoard": false
+      "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
   "active": "9247837145761192",
   "lastOpenFiles": [
+    "【模板等】/新建模板/【参考模板】REFER-AI.md",
+    "【模板等】/新建模板/【参考模板】REFER.md",
     "🛠️常用工具 My Tools.md",
     "示例文档（可删除）/日记/02.21.md",
     "示例文档（可删除）/日记/02.19.md",
@@ -342,8 +348,6 @@
     "示例文档（可删除）/assets/每日笔记、日程管理、工作复盘——这是我钻研出的 Obsidian 八般武艺 - 少数派.pdf",
     "示例文档（可删除）/示例文档5-读书批注.md",
     "示例文档（可删除）/示例文档7-看视频media-extended.md",
-    "示例文档（可删除）/示例文档6-飞书日历同步谷歌日历同步obsidian日记实现番茄计划.md",
-    "示例文档（可删除）/示例文档4-CSS playground.md",
     "示例文档（可删除）/日记",
     "未命名",
     "示例文档（可删除）/assets/Pasted image 20250214103250.png",

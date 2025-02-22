@@ -14,3 +14,7 @@ tags:
 ---
 
 <% tp.file.cursor() %> <%* app.workspace.activeLeaf.view.editor?.focus(); %>
+
+> [!summary] 个人归纳
+> 
+
