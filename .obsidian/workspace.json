@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "示例文档（可删除）/日记/03.01.md",
+                "file": "示例文档（可删除）/日记/03.08.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -154,7 +154,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "示例文档（可删除）/日记/03.01.md"
+                "file": "示例文档（可删除）/日记/03.08.md"
               }
             }
           },
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "示例文档（可删除）/日记/03.01.md"
+                "file": "示例文档（可删除）/日记/03.08.md"
               }
             }
           },
@@ -202,7 +202,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "示例文档（可删除）/日记/03.01.md",
+                "file": "示例文档（可删除）/日记/03.08.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -245,7 +245,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "示例文档（可删除）/日记/03.01.md",
+                "file": "示例文档（可删除）/日记/03.08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -262,7 +262,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "示例文档（可删除）/日记/03.01.md",
+                "file": "示例文档（可删除）/日记/03.08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -313,8 +313,9 @@
   },
   "active": "9247837145761192",
   "lastOpenFiles": [
-    "示例文档（可删除）/日记/02.22.md",
     "示例文档（可删除）/日记/03.01.md",
+    "示例文档（可删除）/日记/03.08.md",
+    "示例文档（可删除）/日记/02.22.md",
     "🛠️常用工具 My Tools.md",
     "【模板等】/新建模板/【参考模板】REFER.md",
     "【模板等】/新建模板/【参考模板】REFER-AI.md",
@@ -347,7 +348,6 @@
     "示例文档（可删除）/日记/02.15-0646 早上.md",
     "【模板等】/4 now-simple.md",
     "📚导航页 Home Page.md",
-    "示例文档（可删除）/示例文档3-今日计划（by deepseek）.md",
     "示例文档（可删除）/assets/每日笔记、日程管理、工作复盘——这是我钻研出的 Obsidian 八般武艺 - 少数派.pdf",
     "示例文档（可删除）/日记",
     "未命名",
