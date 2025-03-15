@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "示例文档（可删除）/示例文档2-永志.md",
+                "file": "示例文档（可删除）/日记/03.15.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -154,7 +154,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "示例文档（可删除）/示例文档2-永志.md"
+                "file": "示例文档（可删除）/日记/03.15.md"
               }
             }
           },
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "示例文档（可删除）/示例文档2-永志.md"
+                "file": "示例文档（可删除）/日记/03.15.md"
               }
             }
           },
@@ -202,7 +202,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "示例文档（可删除）/示例文档2-永志.md",
+                "file": "示例文档（可删除）/日记/03.15.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -245,7 +245,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "示例文档（可删除）/示例文档2-永志.md",
+                "file": "示例文档（可删除）/日记/03.15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -262,7 +262,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "示例文档（可删除）/示例文档2-永志.md",
+                "file": "示例文档（可删除）/日记/03.15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -307,12 +307,13 @@
       "media-extended:Open media": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false,
-      "card-board:CardBoard": false
+      "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
   "active": "9247837145761192",
   "lastOpenFiles": [
+    "示例文档（可删除）/示例文档2-永志.md",
+    "示例文档（可删除）/日记/03.15.md",
     "示例文档（可删除）/示例文档3-今日计划（by deepseek）.md",
     "🛠️常用工具 My Tools.md",
     "📢【必看】两种日记模式（可删除）.md",
@@ -346,8 +347,6 @@
     "示例文档（可删除）/assets 1/Pasted image 20250215071645.png",
     "示例文档（可删除）/assets 1/Pasted image 20250215071621.png",
     "示例文档（可删除）/assets 1",
-    "示例文档（可删除）/日记/02.15-0646 早上.md",
-    "【模板等】/4 now-simple.md",
     "示例文档（可删除）/assets/每日笔记、日程管理、工作复盘——这是我钻研出的 Obsidian 八般武艺 - 少数派.pdf",
     "示例文档（可删除）/日记",
     "未命名",
