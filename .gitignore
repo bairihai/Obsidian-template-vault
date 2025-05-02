@@ -22,3 +22,6 @@
 
 # 不忽略 .gitignore 文件本身
 !.gitignore
+
+# 不忽略 github action工作流配置文件
+!.github/workflows/*.yml

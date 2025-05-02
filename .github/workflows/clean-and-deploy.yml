@@ -1,0 +1,80 @@
+name: 清理并部署内容
+
+# 触发条件：当有新的 commit 推送到 main 分支时
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  clean-and-deploy:
+    runs-on: ubuntu-latest
+    
+    steps:
+      # 检出仓库代码
+      - name: 检出代码
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0  # 完整克隆以确保能创建/更新分支
+      
+      # 设置 Git 用户信息
+      - name: 设置 Git 用户
+        run: |
+          git config --global user.name 'GitHub Action'
+          git config --global user.email 'action@github.com'
+      
+      # 执行清理操作
+      - name: 清理文件和文件夹
+        run: |
+          # 查找并删除所有以"（可删除）"结尾的文件夹及其内容
+          find . -type d -name "*（可删除）" -exec rm -rf {} \; -prune
+          
+          # 查找并删除所有以"（可删除）.md"结尾的文件
+          find . -type f -name "*（可删除）.md" -delete
+          
+          # 删除 .trash 文件夹及其内容
+          rm -rf .trash
+      
+      # 创建或切换到 deploy 分支
+      - name: 准备 deploy 分支
+        run: |
+          # 检查 deploy 分支是否存在，不存在则创建
+          if git show-ref --quiet refs/remotes/origin/deploy; then
+            # 存在则切换到该分支
+            git checkout deploy
+            # 合并 main 分支的更改（不包含我们刚才删除的内容）
+            git merge --no-commit --no-ff main
+          else
+            # 不存在则创建新分支
+            git checkout -b deploy
+          fi
+      
+      # 创建更新说明文件
+      - name: 创建更新说明
+        run: |
+          # 生成当前时间
+          UPDATE_TIME=$(date '+%Y年%m月%d日 %H时%M分')
+          # 创建或更新说明文件
+          echo "# UPDATE: 自动部署更新说明" > README.md
+          echo "" >> README.md
+          echo "本分支内容由 GitHub Action 自动清理并更新于 $UPDATE_TIME" >> README.md
+          echo "" >> README.md
+          echo "更新内容：（由poe claude-3.7操作）" >> README.md
+          echo "- 删除了所有以"（可删除）"结尾的文件夹及其内容" >> README.md
+          echo "- 删除了所有以"（可删除）.md"结尾的文件" >> README.md
+          echo "- 删除了 .trash 文件夹及其内容" >> README.md
+          
+          # 将更新说明添加到 Git
+          git add README.md
+      
+      # 提交更改
+      - name: 提交更改
+        run: |
+          # 检查是否有文件变动
+          if git status --porcelain | grep .; then
+            # 有变动则提交
+            git commit -m "自动清理并更新 - $(date '+%Y-%m-%d %H:%M:%S')"
+            # 推送到远程仓库的 deploy 分支
+            git push -f origin deploy
+          else
+            echo "没有需要清理的文件，跳过提交"
+          fi
