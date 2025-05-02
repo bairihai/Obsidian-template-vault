@@ -43,3 +43,11 @@ The job was not started because recent account payments have failed or your spen
 
 这个飞书还出了个水印，没啥用，我都以个人名义行事，非必要不出动这个名分了。以免被侮辱了什么百日咳之类的引火烧身。
 
+
+![[Pasted image 20250503060411.png]]
+
+
+妈的不行啊。把姓氏改了paypal删了还是不行。有够麻烦的。
+
+
+那算了。

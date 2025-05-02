@@ -56,7 +56,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "示例文档（可删除）/github action配置.md",
+                "file": "📢配置打包仓库的发行说明（可删除）.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -167,7 +167,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "示例文档（可删除）/github action配置.md"
+                "file": "📢配置打包仓库的发行说明（可删除）.md"
               }
             }
           },
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "示例文档（可删除）/github action配置.md"
+                "file": "📢配置打包仓库的发行说明（可删除）.md"
               }
             }
           },
@@ -215,7 +215,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "示例文档（可删除）/github action配置.md",
+                "file": "📢配置打包仓库的发行说明（可删除）.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -258,7 +258,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "示例文档（可删除）/github action配置.md",
+                "file": "📢配置打包仓库的发行说明（可删除）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -275,7 +275,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "示例文档（可删除）/github action配置.md",
+                "file": "📢配置打包仓库的发行说明（可删除）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -326,17 +326,18 @@
   },
   "active": "2f429a16fd66def8",
   "lastOpenFiles": [
+    "📢启用本仓库之后，你的待办事项（可删除）.md",
+    "📢【必看】两种日记模式（可删除）.md",
+    "📢最佳实践：如何利用Beyond Compare将你的现有Obsidian vault升级为我们的预制库（可删除）.md",
+    "示例文档（可删除）/github action配置.md",
+    "示例文档（可删除）/assets/Pasted image 20250503060411.png",
     "示例文档（可删除）/assets/Pasted image 20250503054105.png",
     "示例文档（可删除）/assets/Pasted image 20250503054004.png",
     "示例文档（可删除）/assets/Pasted image 20250503053558.png",
     "示例文档（可删除）/assets 2/Pasted image 20250503053115.png",
     "示例文档（可删除）/assets 2",
     "🛠️常用工具 My Tools.md",
-    "示例文档（可删除）/github action配置.md",
     "示例文档（可删除）/示例文档1-伊洛纳抽卡.md",
-    "📢最佳实践：如何利用Beyond Compare将你的现有Obsidian vault升级为我们的预制库（可删除）.md",
-    "📢启用本仓库之后，你的待办事项（可删除）.md",
-    "📢【必看】两种日记模式（可删除）.md",
     "示例文档（可删除）/日记/05.03.md",
     "📢配置打包仓库的发行说明（可删除）.md",
     "📚导航页 Home Page.md",
@@ -367,10 +368,8 @@
     "示例文档（可删除）/assets/每日笔记、日程管理、工作复盘——这是我钻研出的 Obsidian 八般武艺 - 少数派.pdf",
     "示例文档（可删除）/日记",
     "未命名",
-    "示例文档（可删除）/assets/Pasted image 20250214103250.png",
     "【附件等】/pt-serif-pro-cufonfonts.zip",
     "【附件等】\\字体（重返未来1999）/",
-    "【附件等】\\字体（重返未来1999）",
-    "【附件等】/assets/Pasted image 20250205084337.png"
+    "【附件等】\\字体（重返未来1999）"
   ]
 }
