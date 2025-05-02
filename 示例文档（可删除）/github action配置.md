@@ -21,3 +21,19 @@ aliases:
 
 
 总之快去试试workflow运行地如何。
+
+
+The job was not started because recent account payments have failed or your spending limit needs to be increased. Please check the 'Billing & plans' section in your settings
+
+
+啊。这下爆了。
+
+
+![[Pasted image 20250503053558.png|试试这样，移除paypal付款方式，能有多大用呢……？]]
+
+
+
+还是不行啊……
+
+
+![[Pasted image 20250503054004.png]]
