@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "示例文档（可删除）/日记/03.15.md",
+                "file": "📢最佳实践：如何利用Beyond Compare将你的现有Obsidian vault升级为我们的预制库（可删除）.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -154,7 +154,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "示例文档（可删除）/日记/03.15.md"
+                "file": "📢最佳实践：如何利用Beyond Compare将你的现有Obsidian vault升级为我们的预制库（可删除）.md"
               }
             }
           },
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "示例文档（可删除）/日记/03.15.md"
+                "file": "📢最佳实践：如何利用Beyond Compare将你的现有Obsidian vault升级为我们的预制库（可删除）.md"
               }
             }
           },
@@ -202,7 +202,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "示例文档（可删除）/日记/03.15.md",
+                "file": "📢最佳实践：如何利用Beyond Compare将你的现有Obsidian vault升级为我们的预制库（可删除）.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -245,7 +245,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "示例文档（可删除）/日记/03.15.md",
+                "file": "📢最佳实践：如何利用Beyond Compare将你的现有Obsidian vault升级为我们的预制库（可删除）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -262,7 +262,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "示例文档（可删除）/日记/03.15.md",
+                "file": "📢最佳实践：如何利用Beyond Compare将你的现有Obsidian vault升级为我们的预制库（可删除）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -292,7 +292,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "canvas:新建白板": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
@@ -300,24 +299,25 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "random-note:开始漫游笔记": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": true,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
       "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false,
       "obsidian-kanban:创建新看板": false,
-      "media-extended:Open media": false,
-      "pdf-plus:PDF++: Toggle auto-copy": false,
-      "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false
+      "media-extended:Open media": false
     }
   },
   "active": "9247837145761192",
   "lastOpenFiles": [
-    "示例文档（可删除）/示例文档2-永志.md",
+    "📢启用本仓库之后，你的待办事项（可删除）.md",
+    "示例文档（可删除）/日记/05.03.md",
+    "📢最佳实践：如何利用Beyond Compare将你的现有Obsidian vault升级为我们的预制库（可删除）.md",
+    "📢配置打包仓库的发行说明（可删除）.md",
     "示例文档（可删除）/日记/03.15.md",
+    "示例文档（可删除）/示例文档2-永志.md",
     "示例文档（可删除）/示例文档3-今日计划（by deepseek）.md",
     "🛠️常用工具 My Tools.md",
     "📢【必看】两种日记模式（可删除）.md",
-    "📢启用本仓库之后，你的待办事项（可删除）.md",
     "示例文档（可删除）/日记/03.08.md",
     "示例文档（可删除）/日记/03.01.md",
     "示例文档（可删除）/日记/02.22.md",
@@ -328,7 +328,6 @@
     "示例文档（可删除）/日记/02.18.md",
     "示例文档（可删除）/日记/02.17.md",
     "示例文档（可删除）/日记/02.16.md",
-    "📢配置打包仓库的发行说明（可删除）.md",
     "【模板等】/新建模板/【日记模板】DAILY.md",
     "示例文档（可删除）/日记/02.15-0652 早上.md",
     "示例文档（可删除）/日记/02.15.md",
@@ -338,12 +337,10 @@
     "【附件等】/按钮（for第三方插件buttons）/外链按钮集-2.md",
     "【附件等】/按钮（for第三方插件buttons）/按钮集【普通按钮】.md",
     "【模板等】/新建模板",
-    "示例文档（可删除）/222/02.15.md",
     "assets/Pasted image 20250215113805.png",
     "assets/Pasted image 20250215113210.png",
     "assets/Pasted image 20250215113109.png",
     "assets",
-    "📢最佳实践：如何利用Beyond Compare将你的现有Obsidian vault升级为我们的预制库（可删除）.md",
     "示例文档（可删除）/assets 1/Pasted image 20250215071645.png",
     "示例文档（可删除）/assets 1/Pasted image 20250215071621.png",
     "示例文档（可删除）/assets 1",
