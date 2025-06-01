@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "示例文档（可删除）/日记/06.02.md",
+                "file": "🛠️常用工具 My Tools.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -154,7 +154,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "示例文档（可删除）/日记/06.02.md"
+                "file": "🛠️常用工具 My Tools.md"
               }
             }
           },
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "示例文档（可删除）/日记/06.02.md"
+                "file": "🛠️常用工具 My Tools.md"
               }
             }
           },
@@ -202,7 +202,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "示例文档（可删除）/日记/06.02.md",
+                "file": "🛠️常用工具 My Tools.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -245,7 +245,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "示例文档（可删除）/日记/06.02.md",
+                "file": "🛠️常用工具 My Tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -262,7 +262,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "示例文档（可删除）/日记/06.02.md",
+                "file": "🛠️常用工具 My Tools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -307,13 +307,14 @@
       "media-extended:Open media": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "card-board:CardBoard": false
     }
   },
   "active": "9247837145761192",
   "lastOpenFiles": [
-    "📢启用本仓库之后，你的待办事项（可删除）.md",
     "示例文档（可删除）/日记/06.02.md",
+    "📢启用本仓库之后，你的待办事项（可删除）.md",
     "📢最佳实践：如何利用Beyond Compare将你的现有Obsidian vault升级为我们的预制库（可删除）.md",
     "示例文档（可删除）/示例文档1-伊洛纳抽卡.md",
     "🛠️常用工具 My Tools.md",
