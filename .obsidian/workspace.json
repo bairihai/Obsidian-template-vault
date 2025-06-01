@@ -56,7 +56,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📢配置打包仓库的发行说明（可删除）.md",
+                "file": "示例文档（可删除）/日记/06.01.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -167,7 +167,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "📢配置打包仓库的发行说明（可删除）.md"
+                "file": "示例文档（可删除）/日记/06.01.md"
               }
             }
           },
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📢配置打包仓库的发行说明（可删除）.md"
+                "file": "示例文档（可删除）/日记/06.01.md"
               }
             }
           },
@@ -215,7 +215,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📢配置打包仓库的发行说明（可删除）.md",
+                "file": "示例文档（可删除）/日记/06.01.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -258,7 +258,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📢配置打包仓库的发行说明（可删除）.md",
+                "file": "示例文档（可删除）/日记/06.01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -275,7 +275,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📢配置打包仓库的发行说明（可删除）.md",
+                "file": "示例文档（可删除）/日记/06.01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -326,6 +326,8 @@
   },
   "active": "2f429a16fd66def8",
   "lastOpenFiles": [
+    "📢配置打包仓库的发行说明（可删除）.md",
+    "示例文档（可删除）/日记/06.01.md",
     "📢启用本仓库之后，你的待办事项（可删除）.md",
     "📢【必看】两种日记模式（可删除）.md",
     "📢最佳实践：如何利用Beyond Compare将你的现有Obsidian vault升级为我们的预制库（可删除）.md",
@@ -339,7 +341,6 @@
     "🛠️常用工具 My Tools.md",
     "示例文档（可删除）/示例文档1-伊洛纳抽卡.md",
     "示例文档（可删除）/日记/05.03.md",
-    "📢配置打包仓库的发行说明（可删除）.md",
     "📚导航页 Home Page.md",
     "示例文档（可删除）/日记/03.15.md",
     "示例文档（可删除）/示例文档2-永志.md",
