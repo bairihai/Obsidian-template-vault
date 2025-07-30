@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "示例文档（可删除）/示例文档8-原生注音 拼音以及日语.md",
+                "file": "示例文档（可删除）/日记/07.30.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -154,7 +154,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "示例文档（可删除）/示例文档8-原生注音 拼音以及日语.md"
+                "file": "示例文档（可删除）/日记/07.30.md"
               }
             }
           },
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "示例文档（可删除）/示例文档8-原生注音 拼音以及日语.md"
+                "file": "示例文档（可删除）/日记/07.30.md"
               }
             }
           },
@@ -202,7 +202,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "示例文档（可删除）/示例文档8-原生注音 拼音以及日语.md",
+                "file": "示例文档（可删除）/日记/07.30.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -245,7 +245,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "示例文档（可删除）/示例文档8-原生注音 拼音以及日语.md",
+                "file": "示例文档（可删除）/日记/07.30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -262,7 +262,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "示例文档（可删除）/示例文档8-原生注音 拼音以及日语.md",
+                "file": "示例文档（可删除）/日记/07.30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -307,12 +307,13 @@
       "media-extended:Open media": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false,
-      "card-board:CardBoard": false
+      "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
   "active": "9247837145761192",
   "lastOpenFiles": [
+    "示例文档（可删除）/示例文档8-原生注音 拼音以及日语.md",
+    "示例文档（可删除）/日记/07.30.md",
     "示例文档（可删除）/未命名.md",
     "示例文档（可删除）/示例文档5-读书批注.md",
     "示例文档（可删除）/示例文档4-CSS playground.md",
@@ -343,8 +344,6 @@
     "示例文档（可删除）/日记/03.01.md",
     "示例文档（可删除）/日记/02.22.md",
     "【模板等】/新建模板/【参考模板】REFER.md",
-    "【模板等】/新建模板/【参考模板】REFER-AI.md",
-    "示例文档（可删除）/日记/02.21.md",
     "LICENSE",
     "【模板等】/新建模板",
     "assets/Pasted image 20250215113805.png",
