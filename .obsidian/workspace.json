@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "示例文档（可删除）/示例文档8-原生注音 拼音以及日语.md",
+                "file": "示例文档（可删除）/日记/08.16.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -154,7 +154,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "示例文档（可删除）/示例文档8-原生注音 拼音以及日语.md"
+                "file": "示例文档（可删除）/日记/08.16.md"
               }
             }
           },
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "示例文档（可删除）/示例文档8-原生注音 拼音以及日语.md"
+                "file": "示例文档（可删除）/日记/08.16.md"
               }
             }
           },
@@ -202,7 +202,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "示例文档（可删除）/示例文档8-原生注音 拼音以及日语.md",
+                "file": "示例文档（可删除）/日记/08.16.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -245,7 +245,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "示例文档（可删除）/示例文档8-原生注音 拼音以及日语.md",
+                "file": "示例文档（可删除）/日记/08.16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -262,7 +262,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "示例文档（可删除）/示例文档8-原生注音 拼音以及日语.md",
+                "file": "示例文档（可删除）/日记/08.16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -313,6 +313,8 @@
   },
   "active": "9247837145761192",
   "lastOpenFiles": [
+    "示例文档（可删除）/示例文档8-原生注音 拼音以及日语.md",
+    "示例文档（可删除）/日记/08.16.md",
     "示例文档（可删除）/日记/08.14.md",
     "🛠️常用工具 My Tools.md",
     "📚导航页 Home Page.md",
@@ -320,7 +322,6 @@
     "📢启用本仓库之后，你的待办事项（可删除）.md",
     "📢最佳实践：如何利用Beyond Compare将你的现有Obsidian vault升级为我们的预制库（可删除）.md",
     "示例文档（可删除）/日记/07.30.md",
-    "示例文档（可删除）/示例文档8-原生注音 拼音以及日语.md",
     "示例文档（可删除）/未命名.md",
     "示例文档（可删除）/示例文档5-读书批注.md",
     "示例文档（可删除）/示例文档4-CSS playground.md",
@@ -344,7 +345,6 @@
     "示例文档（可删除）/示例文档3-今日计划（by deepseek）.md",
     "示例文档（可删除）/日记/03.08.md",
     "示例文档（可删除）/日记/03.01.md",
-    "示例文档（可删除）/日记/02.22.md",
     "LICENSE",
     "【模板等】/新建模板",
     "assets/Pasted image 20250215113805.png",
