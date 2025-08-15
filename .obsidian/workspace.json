@@ -41,12 +41,16 @@
             "id": "9247837145761192",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "示例文档（可删除）/日记/08.16.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "示例文档（可删除）/（看板）写作资料集.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false
+                  ]
+                }
               }
             }
           }
@@ -154,7 +158,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "示例文档（可删除）/日记/08.16.md"
+                "file": "示例文档（可删除）/（看板）写作资料集.md"
               }
             }
           },
@@ -176,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "示例文档（可删除）/日记/08.16.md"
+                "file": "示例文档（可删除）/（看板）写作资料集.md"
               }
             }
           },
@@ -202,7 +206,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "示例文档（可删除）/日记/08.16.md",
+                "file": "示例文档（可删除）/（看板）写作资料集.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -245,7 +249,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "示例文档（可删除）/日记/08.16.md",
+                "file": "示例文档（可删除）/（看板）写作资料集.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -262,7 +266,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "示例文档（可删除）/日记/08.16.md",
+                "file": "示例文档（可删除）/（看板）写作资料集.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -313,8 +317,11 @@
   },
   "active": "9247837145761192",
   "lastOpenFiles": [
-    "示例文档（可删除）/示例文档8-原生注音 拼音以及日语.md",
+    "示例文档（可删除）/【参考资料：网络收藏】关于Dat Planner插件.md",
+    "示例文档（可删除）/（看板）写作资料集.md",
+    "示例文档（可删除）/02.14-1027 上午.md",
     "示例文档（可删除）/日记/08.16.md",
+    "示例文档（可删除）/示例文档8-原生注音 拼音以及日语.md",
     "示例文档（可删除）/日记/08.14.md",
     "🛠️常用工具 My Tools.md",
     "📚导航页 Home Page.md",
@@ -325,7 +332,6 @@
     "示例文档（可删除）/未命名.md",
     "示例文档（可删除）/示例文档5-读书批注.md",
     "示例文档（可删除）/示例文档4-CSS playground.md",
-    "示例文档（可删除）/（看板）写作资料集.md",
     "示例文档（可删除）/日记/06.07.md",
     "示例文档（可删除）/日记/06.02.md",
     "示例文档（可删除）/示例文档1-伊洛纳抽卡.md",
@@ -343,8 +349,6 @@
     "示例文档（可删除）/日记/03.15.md",
     "示例文档（可删除）/示例文档2-永志.md",
     "示例文档（可删除）/示例文档3-今日计划（by deepseek）.md",
-    "示例文档（可删除）/日记/03.08.md",
-    "示例文档（可删除）/日记/03.01.md",
     "LICENSE",
     "【模板等】/新建模板",
     "assets/Pasted image 20250215113805.png",
