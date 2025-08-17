@@ -41,13 +41,8 @@
             "id": "9247837145761192",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "示例文档（可删除）/日记/08.17.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -307,8 +302,7 @@
       "media-extended:Open media": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false,
-      "card-board:CardBoard": false
+      "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
   "active": "9247837145761192",
