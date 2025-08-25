@@ -41,8 +41,13 @@
             "id": "9247837145761192",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "示例文档（可删除）/日记/08.25.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
@@ -149,7 +154,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "示例文档（可删除）/日记/08.17.md"
+                "file": "示例文档（可删除）/日记/08.25.md"
               }
             }
           },
@@ -171,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "示例文档（可删除）/日记/08.17.md"
+                "file": "示例文档（可删除）/日记/08.25.md"
               }
             }
           },
@@ -197,7 +202,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "示例文档（可删除）/日记/08.17.md",
+                "file": "示例文档（可删除）/日记/08.25.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -240,7 +245,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "示例文档（可删除）/日记/08.17.md",
+                "file": "示例文档（可删除）/日记/08.25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -257,7 +262,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "示例文档（可删除）/日记/08.17.md",
+                "file": "示例文档（可删除）/日记/08.25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -302,11 +307,13 @@
       "media-extended:Open media": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "card-board:CardBoard": false
     }
   },
   "active": "9247837145761192",
   "lastOpenFiles": [
+    "示例文档（可删除）/日记/08.25.md",
     "示例文档（可删除）/（看板）写作资料集.md",
     "示例文档（可删除）/日记/08.17.md",
     "示例文档（可删除）/【参考资料：网络收藏】关于Dat Planner插件.md",
@@ -338,7 +345,6 @@
     "示例文档（可删除）/assets 2",
     "示例文档（可删除）/日记/05.03.md",
     "示例文档（可删除）/日记/03.15.md",
-    "示例文档（可删除）/示例文档2-永志.md",
     "LICENSE",
     "【模板等】/新建模板",
     "assets/Pasted image 20250215113805.png",
