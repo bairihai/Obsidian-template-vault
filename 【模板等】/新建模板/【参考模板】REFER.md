@@ -12,7 +12,11 @@ aliases:
 tags:
   - 【非原创文章】/网络收藏
 ---
----
+<div style="display: flex; align-items: center; text-align: center; margin: 2em 0;">
+  <span style="flex-grow: 1; border-bottom: 1px solid #ccc;"></span>
+  <span style="padding: 0 10px; color: #888;">以下为二手援引</span>
+  <span style="flex-grow: 1; border-bottom: 1px solid #ccc;"></span>
+</div>
 
 <% tp.file.cursor() %> <%* app.workspace.activeLeaf.view.editor?.focus(); %>
 

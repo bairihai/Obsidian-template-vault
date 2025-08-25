@@ -17,6 +17,10 @@ aliases:
 说说：具体到分钟的想法。更零散，发出之后不再追加，而是另开一篇新的。<br>这上溯至qq空间类似朋友圈的记录格式（也就是ins/小红书体），记录内容包含网络、虚拟、娱乐、灵感等内容。<br>与这具有类似定位的是语雀小记，不过相比之下不怎么需要回顾。我使用了Templater插件，启动了“创建文件时立刻激活一次templater”，这样使用此模板创建的日记就会被自动templater(ed)
 </details>
 
----
+<div style="display: flex; align-items: center; text-align: center; margin: 2em 0;">
+  <span style="flex-grow: 1; border-bottom: 1px solid #ccc;"></span>
+  <span style="padding: 0 10px; color: #888;">以下为内容正文</span>
+  <span style="flex-grow: 1; border-bottom: 1px solid #ccc;"></span>
+</div>
 
 <% tp.file.cursor() %> <%* app.workspace.activeLeaf.view.editor?.focus(); %>
