@@ -51,7 +51,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "示例文档（可删除）/示例文档8-原生注音 拼音以及日语.md"
+                "file": "📢配置打包仓库的发行说明（可删除）.md"
               }
             }
           },
@@ -177,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "示例文档（可删除）/示例文档8-原生注音 拼音以及日语.md"
+                "file": "📢配置打包仓库的发行说明（可删除）.md"
               }
             }
           },
@@ -203,7 +203,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "示例文档（可删除）/示例文档8-原生注音 拼音以及日语.md",
+                "file": "📢配置打包仓库的发行说明（可删除）.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -246,7 +246,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "示例文档（可删除）/示例文档8-原生注音 拼音以及日语.md",
+                "file": "📢配置打包仓库的发行说明（可删除）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -263,7 +263,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "示例文档（可删除）/示例文档8-原生注音 拼音以及日语.md",
+                "file": "📢配置打包仓库的发行说明（可删除）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -312,8 +312,9 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "9247837145761192",
+  "active": "cf581723eb1261ad",
   "lastOpenFiles": [
+    "示例文档（可删除）/示例文档8-原生注音 拼音以及日语.md",
     "示例文档（可删除）/示例文档5-读书批注.md",
     "示例文档（可删除）/示例文档4-CSS playground.md",
     "示例文档（可删除）/示例文档3-今日计划（by deepseek）.md",
@@ -335,7 +336,6 @@
     "示例文档（可删除）/【参考资料：网络收藏】关于Dat Planner插件.md",
     "示例文档（可删除）/02.14-1027 上午.md",
     "示例文档（可删除）/日记/08.16.md",
-    "示例文档（可删除）/示例文档8-原生注音 拼音以及日语.md",
     "示例文档（可删除）/日记/08.14.md",
     "📢启用本仓库之后，你的待办事项（可删除）.md",
     "示例文档（可删除）/日记/07.30.md",
