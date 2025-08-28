@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "示例文档（可删除）/示例文档9-备考助手.md",
+                "file": "【模板等】/新建模板/【参考模板】REFER-AI.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -90,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -193,7 +193,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "示例文档（可删除）/示例文档9-备考助手.md"
+                "file": "【模板等】/新建模板/【参考模板】REFER-AI.md"
               }
             }
           },
@@ -215,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "示例文档（可删除）/示例文档9-备考助手.md"
+                "file": "【模板等】/新建模板/【参考模板】REFER-AI.md"
               }
             }
           },
@@ -241,7 +241,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "示例文档（可删除）/示例文档9-备考助手.md",
+                "file": "【模板等】/新建模板/【参考模板】REFER-AI.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -284,7 +284,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "示例文档（可删除）/示例文档9-备考助手.md",
+                "file": "【模板等】/新建模板/【参考模板】REFER-AI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -301,7 +301,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "示例文档（可删除）/示例文档9-备考助手.md",
+                "file": "【模板等】/新建模板/【参考模板】REFER-AI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -350,10 +350,10 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "2fb972363f2ed547",
+  "active": "ee5d656be1e74049",
   "lastOpenFiles": [
-    "示例文档（可删除）/（看板）写作资料集.md",
     "示例文档（可删除）/示例文档9-备考助手.md",
+    "示例文档（可删除）/（看板）写作资料集.md",
     "示例文档（可删除）/未命名.md",
     "【模板等】/新建模板/【参考模板】REFER-AI.md",
     "【模板等】/新建模板/【参考模板】REFER.md",
