@@ -62,9 +62,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9808796e3e6e92ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "示例文档（可删除）/日记/08.28.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -324,7 +337,7 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "fb915637870e10c6",
+  "active": "9808796e3e6e92ba",
   "lastOpenFiles": [
     "📢配置打包仓库的发行说明（可删除）.md",
     "示例文档（可删除）/日记/08.28.md",
