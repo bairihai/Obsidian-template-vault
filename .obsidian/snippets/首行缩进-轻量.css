@@ -1,10 +1,10 @@
-/* === 段落-首行缩进2个字符 By Linzeal 2024/2/1更新 === */
+/* === 段落-首行缩进2个字符 By Linzeal (Gemini 修复版) 2025/8/28更新 === */
 
 /* 也包括段落中每个回车换行后的首行缩进 */
 
 :is(
 .markdown-source-view .cm-line:not(:is(:has(>.cm-hmd-frontmatter,>br),.HyperMD-header,.HyperMD-list-line,.HyperMD-quote,table .cm-line)), /* 编辑模式 */
-.markdown-rendered :not(:is(blockquote)) > p /* 阅读模式 text-indent不支持each-line的办法 */
+.markdown-rendered :not(:is(blockquote)) > p:not(:has(img, .internal-embed, video)) /* 阅读模式：排除包含图片、内部嵌入或视频的段落 */
 ){
   text-indent: 2em !important;
 }
@@ -15,12 +15,12 @@
 }
 
 /* 阅读模式下对每个回车换行后的首行缩进的修正 */
-.markdown-rendered :not(:is(blockquote)) > p > br
+.markdown-rendered :not(:is(blockquote)) > p:not(:has(img, .internal-embed, video)) > br
 {
   content:'';
   white-space:pre; 
 }
-.markdown-rendered :not(:is(blockquote)) > p > br::after
+.markdown-rendered :not(:is(blockquote)) > p:not(:has(img, .internal-embed, video)) > br::after
 {
   content:'\000A\0009\00A0\00A0'; /* Unicode字符编码\0009表示水平制表符，\00A0表示不换行空格，可通过增减、组合搭配这两个Unicode字符来微调回车换行后的首行缩进量 */
 }
