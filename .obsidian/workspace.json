@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "示例文档（可删除）/日记/10.05.md",
+                "file": "示例文档（可删除）/日记/10.07.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -193,7 +193,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "示例文档（可删除）/日记/10.05.md"
+                "file": "示例文档（可删除）/日记/10.07.md"
               }
             }
           },
@@ -215,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "示例文档（可删除）/日记/10.05.md"
+                "file": "示例文档（可删除）/日记/10.07.md"
               }
             }
           },
@@ -241,7 +241,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "示例文档（可删除）/日记/10.05.md",
+                "file": "示例文档（可删除）/日记/10.07.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -284,7 +284,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "示例文档（可删除）/日记/10.05.md",
+                "file": "示例文档（可删除）/日记/10.07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -301,7 +301,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "示例文档（可删除）/日记/10.05.md",
+                "file": "示例文档（可删除）/日记/10.07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -351,8 +351,9 @@
   },
   "active": "ee5d656be1e74049",
   "lastOpenFiles": [
-    "📢配置打包仓库的发行说明（可删除）.md",
     "示例文档（可删除）/日记/10.05.md",
+    "示例文档（可删除）/日记/10.07.md",
+    "📢配置打包仓库的发行说明（可删除）.md",
     "📢【必看】两种日记模式（可删除）.md",
     "示例文档（可删除）/示例文档9-备考助手 Tikz CustomJS.md",
     "示例文档（可删除）/未命名.md",
@@ -377,7 +378,6 @@
     "示例文档（可删除）/日记/08.28.md",
     "📚导航页 Home Page.md",
     "【模板等】/5 annotation-aside.md",
-    "示例文档（可删除）/日记/08.26.md",
     "示例文档（可删除）/assets/Pasted image 20250503060411.png",
     "示例文档（可删除）/assets/Pasted image 20250503054105.png",
     "示例文档（可删除）/assets/Pasted image 20250503054004.png",
