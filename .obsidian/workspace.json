@@ -69,7 +69,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "示例文档（可删除）/日记/01.02.md",
+                "file": "【模板等】/5 annotation-aside.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6f97ea1a73b5ad40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "示例文档（可删除）/日记/01.25.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -90,7 +103,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -193,7 +206,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "示例文档（可删除）/日记/01.02.md"
+                "file": "示例文档（可删除）/日记/01.25.md"
               }
             }
           },
@@ -215,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "示例文档（可删除）/日记/01.02.md"
+                "file": "示例文档（可删除）/日记/01.25.md"
               }
             }
           },
@@ -241,7 +254,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "示例文档（可删除）/日记/01.02.md",
+                "file": "示例文档（可删除）/日记/01.25.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -284,7 +297,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "示例文档（可删除）/日记/01.02.md",
+                "file": "示例文档（可删除）/日记/01.25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -301,7 +314,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "示例文档（可删除）/日记/01.02.md",
+                "file": "示例文档（可删除）/日记/01.25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -349,10 +362,16 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "ee5d656be1e74049",
+  "active": "6f97ea1a73b5ad40",
   "lastOpenFiles": [
-    "示例文档（可删除）/日记/10.07.md",
+    "【模板等】/4 now-simple.md",
+    "示例文档（可删除）/日记/01.25.md",
+    "【模板等】/(pin) task (lark & loose-leaf-book).md",
+    "【模板等】/6 ruby.md",
+    "【模板等】/titled by NB.md",
+    "【模板等】/5 annotation-aside.md",
     "示例文档（可删除）/日记/01.02.md",
+    "示例文档（可删除）/日记/10.07.md",
     "示例文档（可删除）/日记/10.05.md",
     "📢配置打包仓库的发行说明（可删除）.md",
     "📢【必看】两种日记模式（可删除）.md",
@@ -371,13 +390,7 @@
     "示例文档（可删除）/示例文档8-原生注音 拼音以及日语.md",
     "示例文档（可删除）/示例文档3-今日计划（by deepseek）.md",
     "示例文档（可删除）/示例文档5-读书批注.md",
-    "示例文档（可删除）/示例文档7-看视频media-extended.md",
-    "示例文档（可删除）/示例文档4-CSS playground.md",
-    "示例文档（可删除）/示例文档1-伊洛纳抽卡.md",
-    "📢最佳实践：如何利用Beyond Compare将你的现有Obsidian vault升级为我们的预制库（可删除）.md",
     "示例文档（可删除）/assets/Pasted image 20250205023244.png",
-    "示例文档（可删除）/日记/08.28.md",
-    "📚导航页 Home Page.md",
     "示例文档（可删除）/assets/Pasted image 20250503060411.png",
     "示例文档（可删除）/assets/Pasted image 20250503054105.png",
     "示例文档（可删除）/assets/Pasted image 20250503054004.png",
