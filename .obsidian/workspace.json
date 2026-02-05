@@ -82,7 +82,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "示例文档（可删除）/日记/01.25.md",
+                "file": "示例文档（可删除）/日记/02.05.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -206,7 +206,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "示例文档（可删除）/日记/01.25.md"
+                "file": "示例文档（可删除）/日记/02.05.md"
               }
             }
           },
@@ -228,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "示例文档（可删除）/日记/01.25.md"
+                "file": "示例文档（可删除）/日记/02.05.md"
               }
             }
           },
@@ -254,7 +254,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "示例文档（可删除）/日记/01.25.md",
+                "file": "示例文档（可删除）/日记/02.05.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -297,7 +297,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "示例文档（可删除）/日记/01.25.md",
+                "file": "示例文档（可删除）/日记/02.05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -314,7 +314,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "示例文档（可删除）/日记/01.25.md",
+                "file": "示例文档（可删除）/日记/02.05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -364,8 +364,9 @@
   },
   "active": "6f97ea1a73b5ad40",
   "lastOpenFiles": [
-    "【模板等】/4 now-simple.md",
     "示例文档（可删除）/日记/01.25.md",
+    "示例文档（可删除）/日记/02.05.md",
+    "【模板等】/4 now-simple.md",
     "【模板等】/(pin) task (lark & loose-leaf-book).md",
     "【模板等】/6 ruby.md",
     "【模板等】/titled by NB.md",
@@ -389,7 +390,6 @@
     "示例文档（可删除）/示例文档2-永志（写作与汉化助手）.md",
     "示例文档（可删除）/示例文档8-原生注音 拼音以及日语.md",
     "示例文档（可删除）/示例文档3-今日计划（by deepseek）.md",
-    "示例文档（可删除）/示例文档5-读书批注.md",
     "示例文档（可删除）/assets/Pasted image 20250205023244.png",
     "示例文档（可删除）/assets/Pasted image 20250503060411.png",
     "示例文档（可删除）/assets/Pasted image 20250503054105.png",
