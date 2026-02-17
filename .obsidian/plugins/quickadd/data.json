@@ -193,18 +193,18 @@
       "id": "f980c863-c611-4930-a89d-5ca89285a70d",
       "name": "AVG-dialog",
       "type": "Capture",
-      "command": false,
+      "command": true,
       "appendLink": false,
       "captureTo": "",
-      "captureToActiveFile": false,
+      "captureToActiveFile": true,
       "createFileIfItDoesntExist": {
         "enabled": false,
         "createWithTemplate": false,
         "template": ""
       },
       "format": {
-        "enabled": false,
-        "format": ""
+        "enabled": true,
+        "format": "\n```dataviewjs\n// ================= 配置区域 =================\n\nconst showRole = {{VALUE:显示图片和姓名吗？人物语言true，人物心理或者环境false，不能填别的}};\n\n// --- 人物设定 ---\nconst charName = \"{{VALUE:人物姓名，不需要则不填写}}\";\nconst myImagePath = \"{{VALUE:图片路径，不需要则不填写，形如ObsidianAVG-KEY-asset/Yangtong test.png}}\"; \n\n// --- 文本内容 ---\nconst textMain = \"{{VALUE:中文正文，用 右斜杠n 换行}}\";\nconst textSub = \"{{VALUE:英文正文，用 右斜杠n 换行}}\";\n\n// --- 颜色配置 (删除了 lineColor) --- 数字越大播放越慢\nconst nameColor = \"#55E6C1\"; \nconst mainColor = \"#e0e0e0\"; \nconst subColor  = \"#777777\"; \n\nconst speed = 55; \n\n// ================= 核心逻辑 =================\n\nconst clsName = showRole ? \"hybrid-container\" : \"hybrid-container no-role\";\nconst container = dv.el(\"div\", \"\", { cls: clsName });\n\nif (showRole) {\n    const charImgSrc = app.vault.adapter.getResourcePath(myImagePath);\n    const img = container.createEl(\"img\", { cls: \"hybrid-char-img\" });\n    img.src = charImgSrc;\n}\n\nconst panel = container.createEl(\"div\", { cls: \"hybrid-panel\" });\n\n// --- 名字区域 ---\nif (showRole && charName) {\n    const nameTag = panel.createEl(\"div\", { cls: \"hybrid-name\", text: charName });\n    nameTag.style.color = nameColor;\n    \n    // ★ 原来的创建线条代码已被删除\n}\n\n// --- 文字区域 ---\nconst mainSpan = panel.createEl(\"div\", { cls: \"hybrid-text-main\" });\nmainSpan.style.color = mainColor;\n\nconst subSpan = panel.createEl(\"div\", { cls: \"hybrid-text-sub\" });\nsubSpan.style.color = subColor;\n\n// --- 呼吸灯光标 ---\npanel.createEl(\"div\", { cls: \"hybrid-cursor\", text: \"▼\" });\n\n\n// --- 打字机逻辑 ---\nlet i = 0;\nlet j = 0;\n\nfunction typeWriter() {\n  if (i < textMain.length) {\n    if (textMain.charAt(i) === \"\\n\") mainSpan.innerHTML += \"<br/>\";\n    else mainSpan.innerText += textMain.charAt(i);\n    i++;\n    setTimeout(typeWriter, speed);\n  } else if (j < textSub.length) {\n    if (textSub.charAt(j) === \"\\n\") subSpan.innerHTML += \"<br/>\";\n    else subSpan.innerText += textSub.charAt(j);\n    j++;\n    setTimeout(typeWriter, speed / 1.5); \n  }\n}\n\nsetTimeout(typeWriter, 400);\n```"
       },
       "insertAfter": {
         "enabled": false,
