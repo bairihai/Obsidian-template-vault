@@ -77,19 +77,6 @@
             }
           },
           {
-            "id": "6f97ea1a73b5ad40",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "示例文档（可删除）/日记/02.17.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "2fb972363f2ed547",
             "type": "leaf",
             "state": {
@@ -103,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -206,7 +193,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "示例文档（可删除）/日记/02.17.md"
+                "file": "【模板等】/5 annotation-aside.md"
               }
             }
           },
@@ -228,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "示例文档（可删除）/日记/02.17.md"
+                "file": "【模板等】/5 annotation-aside.md"
               }
             }
           },
@@ -254,7 +241,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "示例文档（可删除）/日记/02.17.md",
+                "file": "【模板等】/5 annotation-aside.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -297,7 +284,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "示例文档（可删除）/日记/02.17.md",
+                "file": "【模板等】/5 annotation-aside.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -314,7 +301,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "示例文档（可删除）/日记/02.17.md",
+                "file": "【模板等】/5 annotation-aside.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -359,11 +346,13 @@
       "media-extended:Open media": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "card-board:CardBoard": false
     }
   },
-  "active": "6f97ea1a73b5ad40",
+  "active": "ee5d656be1e74049",
   "lastOpenFiles": [
+    "示例文档（可删除）/日记/02.17.md",
     "📚导航页 Home Page.md",
     "【模板等】/edit (simple).md",
     "【模板等】/TTAVG-dialog.md",
@@ -389,7 +378,6 @@
     "【模板等】/新建模板/【文章模板】MD.md",
     "【模板等】/新建模板/【闪念模板】ZONE.md",
     "【参考资料：AI生成】.md",
-    "🛠️常用工具 My Tools.md",
     "示例文档（可删除）/assets/Pasted image 20250205023244.png",
     "示例文档（可删除）/assets/Pasted image 20250503060411.png",
     "示例文档（可删除）/assets/Pasted image 20250503054105.png",
