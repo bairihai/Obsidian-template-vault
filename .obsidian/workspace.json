@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "示例文档（可删除）/日记/03.29.md",
+                "file": "📢启用本仓库之后，你的待办事项（可删除）.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -193,7 +193,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "示例文档（可删除）/日记/03.29.md"
+                "file": "📢启用本仓库之后，你的待办事项（可删除）.md"
               }
             }
           },
@@ -215,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "示例文档（可删除）/日记/03.29.md"
+                "file": "📢启用本仓库之后，你的待办事项（可删除）.md"
               }
             }
           },
@@ -241,7 +241,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "示例文档（可删除）/日记/03.29.md",
+                "file": "📢启用本仓库之后，你的待办事项（可删除）.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -284,7 +284,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "示例文档（可删除）/日记/03.29.md",
+                "file": "📢启用本仓库之后，你的待办事项（可删除）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -301,7 +301,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "示例文档（可删除）/日记/03.29.md",
+                "file": "📢启用本仓库之后，你的待办事项（可删除）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -346,11 +346,14 @@
       "media-extended:Open media": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "card-board:CardBoard": false
     }
   },
   "active": "ee5d656be1e74049",
   "lastOpenFiles": [
+    "📢【必看】两种日记模式（可删除）.md",
+    "📢启用本仓库之后，你的待办事项（可删除）.md",
     "📢最佳实践：如何利用Beyond Compare将你的现有Obsidian vault升级为我们的预制库（可删除）.md",
     "示例文档（可删除）/日记/03.29.md",
     "示例文档（可删除）/日记/02.17.md",
@@ -368,7 +371,6 @@
     "示例文档（可删除）/日记/10.07.md",
     "示例文档（可删除）/日记/10.05.md",
     "📢配置打包仓库的发行说明（可删除）.md",
-    "📢【必看】两种日记模式（可删除）.md",
     "示例文档（可删除）/示例文档9-备考助手 Tikz CustomJS.md",
     "示例文档（可删除）/未命名.md",
     "示例文档（可删除）/日记/09.13.md",
@@ -376,7 +378,6 @@
     "示例文档（可删除）/（看板）写作资料集.md",
     "【模板等】/新建模板/【参考模板】REFER.md",
     "【模板等】/新建模板/【日记模板】DAILY.md",
-    "【模板等】/新建模板/【文章模板】MD.md",
     "示例文档（可删除）/assets/Pasted image 20250205023244.png",
     "示例文档（可删除）/assets/Pasted image 20250503060411.png",
     "示例文档（可删除）/assets/Pasted image 20250503054105.png",
