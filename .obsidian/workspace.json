@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "【模板等】/5 annotation-aside.md",
+                "file": "示例文档（可删除）/日记/03.29.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -102,7 +102,7 @@
       {
         "id": "3df9125c4cf2684e",
         "type": "tabs",
-        "dimension": 53.15985130111525,
+        "dimension": 74.59727385377943,
         "children": [
           {
             "id": "8dc072b6f0c03391",
@@ -134,7 +134,7 @@
       {
         "id": "92bf01be47354d8d",
         "type": "tabs",
-        "dimension": 46.84014869888475,
+        "dimension": 25.402726146220576,
         "children": [
           {
             "id": "6e248deb47cc44cb",
@@ -193,7 +193,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "【模板等】/5 annotation-aside.md"
+                "file": "示例文档（可删除）/日记/03.29.md"
               }
             }
           },
@@ -215,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "【模板等】/5 annotation-aside.md"
+                "file": "示例文档（可删除）/日记/03.29.md"
               }
             }
           },
@@ -241,7 +241,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "【模板等】/5 annotation-aside.md",
+                "file": "示例文档（可删除）/日记/03.29.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -284,7 +284,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "【模板等】/5 annotation-aside.md",
+                "file": "示例文档（可删除）/日记/03.29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -301,7 +301,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "【模板等】/5 annotation-aside.md",
+                "file": "示例文档（可删除）/日记/03.29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -346,12 +346,13 @@
       "media-extended:Open media": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false,
-      "card-board:CardBoard": false
+      "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
   "active": "ee5d656be1e74049",
   "lastOpenFiles": [
+    "📢最佳实践：如何利用Beyond Compare将你的现有Obsidian vault升级为我们的预制库（可删除）.md",
+    "示例文档（可删除）/日记/03.29.md",
     "示例文档（可删除）/日记/02.17.md",
     "📚导航页 Home Page.md",
     "【模板等】/edit (simple).md",
@@ -376,8 +377,6 @@
     "【模板等】/新建模板/【参考模板】REFER.md",
     "【模板等】/新建模板/【日记模板】DAILY.md",
     "【模板等】/新建模板/【文章模板】MD.md",
-    "【模板等】/新建模板/【闪念模板】ZONE.md",
-    "【参考资料：AI生成】.md",
     "示例文档（可删除）/assets/Pasted image 20250205023244.png",
     "示例文档（可删除）/assets/Pasted image 20250503060411.png",
     "示例文档（可删除）/assets/Pasted image 20250503054105.png",
