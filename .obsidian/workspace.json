@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📚导航页 Home Page.md",
+                "file": "📢最佳实践：如何利用Beyond Compare将你的现有Obsidian vault升级为我们的预制库（可删除）.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -81,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#✒️原创文章",
+                "query": "banner",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +90,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "92bf01be47354d8d",
@@ -154,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "📚导航页 Home Page.md"
+                "file": "📢最佳实践：如何利用Beyond Compare将你的现有Obsidian vault升级为我们的预制库（可删除）.md"
               }
             }
           },
@@ -176,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📚导航页 Home Page.md"
+                "file": "📢最佳实践：如何利用Beyond Compare将你的现有Obsidian vault升级为我们的预制库（可删除）.md"
               }
             }
           },
@@ -202,7 +203,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📚导航页 Home Page.md",
+                "file": "📢最佳实践：如何利用Beyond Compare将你的现有Obsidian vault升级为我们的预制库（可删除）.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -245,7 +246,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📚导航页 Home Page.md",
+                "file": "📢最佳实践：如何利用Beyond Compare将你的现有Obsidian vault升级为我们的预制库（可删除）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -262,7 +263,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📚导航页 Home Page.md",
+                "file": "📢最佳实践：如何利用Beyond Compare将你的现有Obsidian vault升级为我们的预制库（可删除）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -311,9 +312,10 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "1f54198e1477b3c6",
+  "active": "06d3f775a46a584c",
   "lastOpenFiles": [
     "🛠️常用工具 My Tools.md",
+    "📚导航页 Home Page.md",
     "📢最佳实践：如何利用Beyond Compare将你的现有Obsidian vault升级为我们的预制库（可删除）.md",
     "📢配置打包仓库的发行说明（可删除）.md",
     "【新建模板】/【文章模板】MD.md",
@@ -322,7 +324,6 @@
     "【新建模板】/【参考模板】REFER-AI.md",
     "【新建模板】/【参考模板】REFER.md",
     "【新建模板】/【闪念模板】ZONE.md",
-    "📚导航页 Home Page.md",
     "普通文章.md",
     "【模板等】/3 refer.md",
     "【模板等】/2 image.md",

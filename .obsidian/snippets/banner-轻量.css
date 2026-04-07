@@ -1,0 +1,45 @@
+/* 手工搬运 obsidian banner功能，如果有冲突的话回头再修 边缘模糊，两边间距增大，以及要把那个切割的填充方式改为拉伸缩放你懂我就好 */
+
+/* 增加左右间距，边缘模糊，填充方式改为拉伸缩放 */
+.markdown-source-view:has(*[alt="banner"]),
+.markdown-preview-view:has(*[alt="banner"]) {
+    --banner-height: 266px; /* banner 高度进行了增加，以便展示更多美景，精制banner回头再调校 */
+    --banner-side-padding: 28px; /* 两边间距增大 */
+}
+
+/* Margin above inline title and frontmatter. */
+.markdown-source-view:has(*[alt="banner"]).is-live-preview .cm-sizer,
+.markdown-preview-view:has(*[alt="banner"]).markdown-preview-view .markdown-preview-pusher {
+    padding-top: var(--banner-height);
+}
+
+/* 让 banner 占据内容区宽度并有左右间距 */
+.markdown-source-view:has(*[alt="banner"]).is-live-preview .image-embed img[alt="banner"]:first-child,
+.markdown-preview-view:has(*[alt="banner"]).markdown-preview-view img[alt="banner"]:first-child {
+    display: block;
+    position: absolute;
+    top: 0;
+    left: var(--banner-side-padding);
+    width: calc(100% - 2 * var(--banner-side-padding));
+    height: var(--banner-height);
+    object-fit: fill; /* 拉伸缩放填充 */
+    margin: 0 auto;
+    pointer-events: auto;
+    background: none !important;
+    border: none !important;
+    border-radius: 8px !important; /* 可选：圆角 */
+    box-shadow: 0 0 3px 4px rgba(0,0,0,0.18); /* 边缘模糊 */
+    z-index: 2;
+    /* 阴冷滤镜效果：降低亮度、增加蓝色、略微模糊 */
+    filter: grayscale(0.3) brightness(0.95);
+}
+
+/* 兼容原始 display: contents 规则 */
+.markdown-source-view:has(*[alt="banner"]).is-live-preview .image-embed:has(img[alt="banner"]:first-child),
+.markdown-preview-view:has(*[alt="banner"]).markdown-preview-view span[alt="banner"]:first-child {
+    display: contents;
+}
+
+/* contrast(1.1) blur(1px) hue-rotate(-20deg) saturate(0.7)
+    filter: blur(1px) brightness(0.98); 轻微模糊和暗化 */
+    /* 填充方式回头还要再调就先这样 */
