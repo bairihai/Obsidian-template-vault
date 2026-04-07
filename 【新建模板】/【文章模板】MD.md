@@ -8,6 +8,8 @@ cssclasses:
 create_device: 
 uid:
   - uid_<% Date.now() %>
-aliases:
+aliases: 
+tags:
+  - "#原创文档"
 ---
 <% tp.file.cursor() %> <%* app.workspace.activeLeaf.view.editor?.focus(); %>

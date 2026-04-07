@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "【模板等】/3 refer.md",
+                "file": "📢【必看】两种日记模式（可删除）.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -63,7 +63,7 @@
       {
         "id": "3df9125c4cf2684e",
         "type": "tabs",
-        "dimension": 74.59727385377943,
+        "dimension": 71.00371747211895,
         "children": [
           {
             "id": "8dc072b6f0c03391",
@@ -81,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tikz",
+                "query": "tag:#【特殊tag】",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,12 +90,13 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "92bf01be47354d8d",
         "type": "tabs",
-        "dimension": 25.402726146220576,
+        "dimension": 28.99628252788104,
         "children": [
           {
             "id": "6e248deb47cc44cb",
@@ -133,7 +134,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -154,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "📚导航页 Home Page.md"
+                "file": "📢【必看】两种日记模式（可删除）.md"
               }
             }
           },
@@ -176,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📚导航页 Home Page.md"
+                "file": "📢【必看】两种日记模式（可删除）.md"
               }
             }
           },
@@ -202,7 +203,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📚导航页 Home Page.md",
+                "file": "📢【必看】两种日记模式（可删除）.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -245,7 +246,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📚导航页 Home Page.md",
+                "file": "📢【必看】两种日记模式（可删除）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -262,7 +263,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📚导航页 Home Page.md",
+                "file": "📢【必看】两种日记模式（可删除）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -307,11 +308,18 @@
       "media-extended:Open media": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "card-board:CardBoard": false
     }
   },
-  "active": "8dc072b6f0c03391",
+  "active": "06d3f775a46a584c",
   "lastOpenFiles": [
+    "【新建模板】/【日记模板】DAILY.md",
+    "【新建模板】/【参考模板】REFER-AI.md",
+    "【新建模板】/【参考模板】REFER.md",
+    "【新建模板】/【闪念模板】ZONE.md",
+    "【新建模板】/【文章模板】MD.md",
+    "📚导航页 Home Page.md",
     "普通文章.md",
     "🛠️常用工具 My Tools.md",
     "【模板等】/3 refer.md",
@@ -334,12 +342,6 @@
     "📢最佳实践：如何利用Beyond Compare将你的现有Obsidian vault升级为我们的预制库（可删除）.md",
     "示例文档（可删除）/日记/03.29.md",
     "示例文档（可删除）/日记/02.17.md",
-    "📚导航页 Home Page.md",
-    "【模板等】/TTAVG-dialog.md",
-    "示例文档（可删除）/日记/02.05.md",
-    "示例文档（可删除）/日记/01.25.md",
-    "【模板等】/(pin) task (lark & loose-leaf-book).md",
-    "【模板等】/titled by NB.md",
     "示例文档（可删除）/assets/Pasted image 20250205023244.png",
     "示例文档（可删除）/assets/Pasted image 20250503060411.png",
     "示例文档（可删除）/assets/Pasted image 20250503054105.png",
