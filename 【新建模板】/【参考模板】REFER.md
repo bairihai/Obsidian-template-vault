@@ -10,7 +10,7 @@ uid:
   - uid_<% Date.now() %>
 aliases: 
 tags:
-  - 【非原创文章】/网络收藏
+  - 🌐非原创文章/网络收藏
 ---
 
 > [!summary] 个人归纳

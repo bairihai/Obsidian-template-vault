@@ -36,22 +36,9 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "afbdb7fa6e330eb3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📢【必看】两种日记模式（可删除）.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#【特殊tag】",
+                "query": "tag:#✒️原创文章",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,8 +77,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "92bf01be47354d8d",
@@ -155,7 +141,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "📢【必看】两种日记模式（可删除）.md"
+                "file": "📢配置打包仓库的发行说明（可删除）.md"
               }
             }
           },
@@ -177,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📢【必看】两种日记模式（可删除）.md"
+                "file": "📢配置打包仓库的发行说明（可删除）.md"
               }
             }
           },
@@ -203,7 +189,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📢【必看】两种日记模式（可删除）.md",
+                "file": "📢配置打包仓库的发行说明（可删除）.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -246,7 +232,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📢【必看】两种日记模式（可删除）.md",
+                "file": "📢配置打包仓库的发行说明（可删除）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -263,7 +249,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📢【必看】两种日记模式（可删除）.md",
+                "file": "📢配置打包仓库的发行说明（可删除）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -312,14 +298,14 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "06d3f775a46a584c",
+  "active": "cf581723eb1261ad",
   "lastOpenFiles": [
+    "【新建模板】/【文章模板】MD.md",
     "📢【必看】两种日记模式（可删除）.md",
     "【新建模板】/【日记模板】DAILY.md",
     "【新建模板】/【参考模板】REFER-AI.md",
     "【新建模板】/【参考模板】REFER.md",
     "【新建模板】/【闪念模板】ZONE.md",
-    "【新建模板】/【文章模板】MD.md",
     "📚导航页 Home Page.md",
     "普通文章.md",
     "🛠️常用工具 My Tools.md",

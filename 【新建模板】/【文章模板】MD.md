@@ -10,6 +10,6 @@ uid:
   - uid_<% Date.now() %>
 aliases: 
 tags:
-  - "#原创文档"
+  - ✒️原创文章
 ---
 <% tp.file.cursor() %> <%* app.workspace.activeLeaf.view.editor?.focus(); %>
