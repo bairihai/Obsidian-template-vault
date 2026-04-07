@@ -25,3 +25,10 @@
 
 # 不忽略 github action工作流配置文件
 !.github/workflows/*.yml
+
+
+# 【轻量化】忽略obsidian插件文件
+/.obsidian/plugins/**
+
+# 【轻量化】忽略废弃的文件
+/.trash/
