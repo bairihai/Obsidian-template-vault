@@ -37,8 +37,7 @@
               "pinned": true
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -141,7 +140,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "📢配置打包仓库的发行说明（可删除）.md"
+                "file": "📚导航页 Home Page.md"
               }
             }
           },
@@ -163,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📢配置打包仓库的发行说明（可删除）.md"
+                "file": "📚导航页 Home Page.md"
               }
             }
           },
@@ -189,7 +188,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📢配置打包仓库的发行说明（可删除）.md",
+                "file": "📚导航页 Home Page.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -232,7 +231,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📢配置打包仓库的发行说明（可删除）.md",
+                "file": "📚导航页 Home Page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -249,7 +248,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📢配置打包仓库的发行说明（可删除）.md",
+                "file": "📚导航页 Home Page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -297,13 +296,13 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "cf581723eb1261ad",
+  "active": "1b83420811b7edb7",
   "lastOpenFiles": [
-    "📢最佳实践：如何利用Beyond Compare将你的现有Obsidian vault升级为我们的预制库（可删除）.md",
+    "📢配置打包仓库的发行说明（可删除）.md",
     "📢启用本仓库之后，你的待办事项（可删除）.md",
+    "📢最佳实践：如何利用Beyond Compare将你的现有Obsidian vault升级为我们的预制库（可删除）.md",
     "📚导航页 Home Page.md",
     "🛠️常用工具 My Tools.md",
-    "📢配置打包仓库的发行说明（可删除）.md",
     "【新建模板】/【文章模板】MD.md",
     "📢【必看】两种日记模式（可删除）.md",
     "【新建模板】/【日记模板】DAILY.md",
