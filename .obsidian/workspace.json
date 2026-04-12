@@ -36,8 +36,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "883b7607bd55b849",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "【模板等】/8 todo.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -67,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "banner",
+                "query": "tag:#任务/⭕待办Todo（完成后删除此标签）",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -140,7 +154,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "📚导航页 Home Page.md"
+                "file": "【模板等】/8 todo.md"
               }
             }
           },
@@ -162,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📚导航页 Home Page.md"
+                "file": "【模板等】/8 todo.md"
               }
             }
           },
@@ -188,7 +202,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📚导航页 Home Page.md",
+                "file": "【模板等】/8 todo.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -231,7 +245,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📚导航页 Home Page.md",
+                "file": "【模板等】/8 todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -248,7 +262,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📚导航页 Home Page.md",
+                "file": "【模板等】/8 todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -296,12 +310,14 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "1b83420811b7edb7",
+  "active": "883b7607bd55b849",
   "lastOpenFiles": [
     "📢配置打包仓库的发行说明（可删除）.md",
+    "【模板等】/8 todo.md",
+    "【模板等】/7 comment.md",
+    "📚导航页 Home Page.md",
     "📢启用本仓库之后，你的待办事项（可删除）.md",
     "📢最佳实践：如何利用Beyond Compare将你的现有Obsidian vault升级为我们的预制库（可删除）.md",
-    "📚导航页 Home Page.md",
     "🛠️常用工具 My Tools.md",
     "【新建模板】/【文章模板】MD.md",
     "📢【必看】两种日记模式（可删除）.md",
@@ -316,7 +332,6 @@
     "【模板等】/1 now.md",
     "【模板等】/5 annotation-aside.md",
     "【模板等】/6 ruby.md",
-    "【模板等】/7 comment.md",
     "【模板等】/edit (simple).md",
     "示例文档（可删除）/26.4.6 废弃模板/(pin) task (lark & loose-leaf-book).md",
     "示例文档（可删除）/26.4.6 废弃模板/edit (simple).md",
@@ -325,7 +340,6 @@
     "示例文档（可删除）/【参考资料：AI生成】.md",
     "示例文档（可删除）/示例文档8-原生注音 拼音以及日语.md",
     "示例文档（可删除）/日记/03.29.md",
-    "示例文档（可删除）/日记/02.17.md",
     "示例文档（可删除）/assets/Pasted image 20250205023244.png",
     "示例文档（可删除）/assets/Pasted image 20250503060411.png",
     "示例文档（可删除）/assets/Pasted image 20250503054105.png",
