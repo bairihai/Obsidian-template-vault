@@ -63,7 +63,7 @@
       {
         "id": "3df9125c4cf2684e",
         "type": "tabs",
-        "dimension": 71.00371747211895,
+        "dimension": 71.00371747211896,
         "children": [
           {
             "id": "8dc072b6f0c03391",
@@ -96,7 +96,7 @@
       {
         "id": "92bf01be47354d8d",
         "type": "tabs",
-        "dimension": 28.99628252788104,
+        "dimension": 28.996282527881043,
         "children": [
           {
             "id": "6e248deb47cc44cb",
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "📢最佳实践：如何利用Beyond Compare将你的现有Obsidian vault升级为我们的预制库（可删除）.md"
+                "file": "📚导航页 Home Page.md"
               }
             }
           },
@@ -177,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📢最佳实践：如何利用Beyond Compare将你的现有Obsidian vault升级为我们的预制库（可删除）.md"
+                "file": "📚导航页 Home Page.md"
               }
             }
           },
@@ -203,7 +203,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📢最佳实践：如何利用Beyond Compare将你的现有Obsidian vault升级为我们的预制库（可删除）.md",
+                "file": "📚导航页 Home Page.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -246,7 +246,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📢最佳实践：如何利用Beyond Compare将你的现有Obsidian vault升级为我们的预制库（可删除）.md",
+                "file": "📚导航页 Home Page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -263,7 +263,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📢最佳实践：如何利用Beyond Compare将你的现有Obsidian vault升级为我们的预制库（可删除）.md",
+                "file": "📚导航页 Home Page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -308,8 +308,7 @@
       "media-extended:Open media": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false,
-      "card-board:CardBoard": false
+      "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
   "active": "06d3f775a46a584c",
