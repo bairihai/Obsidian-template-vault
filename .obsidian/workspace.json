@@ -293,8 +293,7 @@
       "media-extended:Open media": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false,
-      "card-board:CardBoard": false
+      "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
   "active": "1b83420811b7edb7",
