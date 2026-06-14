@@ -1,26 +1,27 @@
-/* === 段落-首行缩进2个字符 By Linzeal (Gemini 修复版) 2025/8/28更新 === */
+/* === 段落-首行缩进2个字符 By Linzeal (Gemini 修复版) 2026/6/14更新 === */
+/* 添加了 cssclasses 排查功能：如果 YAML 中含有 cssclasses: no-indent，则不启用缩进 */
 
 /* 也包括段落中每个回车换行后的首行缩进 */
 
 :is(
-.markdown-source-view .cm-line:not(:is(:has(>.cm-hmd-frontmatter,>br),.HyperMD-header,.HyperMD-list-line,.HyperMD-quote,table .cm-line)), /* 编辑模式 */
-.markdown-rendered :not(:is(blockquote)) > p:not(:has(img, .internal-embed, video)) /* 阅读模式：排除包含图片、内部嵌入或视频的段落 */
+  .markdown-source-view:not(.no-indent) .cm-line:not(:is(:has(>.cm-hmd-frontmatter,>br),.HyperMD-header,.HyperMD-list-line,.HyperMD-quote,table .cm-line)), /* 编辑模式：排除了包含 no-indent 类的文档 */
+  .markdown-preview-view:not(.no-indent) .markdown-rendered :not(:is(blockquote)) > p:not(:has(img, .internal-embed, video)) /* 阅读模式：排除了包含 no-indent 类的文档，并排除图片、嵌入或视频 */
 ){
   text-indent: 2em !important;
 }
 
-.markdown-rendered :not(:is(blockquote)) > p
+.markdown-preview-view:not(.no-indent) .markdown-rendered :not(:is(blockquote)) > p
 {
   /*text-indent: 2em each-line !important; 若支持each-line参数则用这个即可，更为简单，就无需下面的修正 */
 }
 
 /* 阅读模式下对每个回车换行后的首行缩进的修正 */
-.markdown-rendered :not(:is(blockquote)) > p:not(:has(img, .internal-embed, video)) > br
+.markdown-preview-view:not(.no-indent) .markdown-rendered :not(:is(blockquote)) > p:not(:has(img, .internal-embed, video)) > br
 {
   content:'';
   white-space:pre; 
 }
-.markdown-rendered :not(:is(blockquote)) > p:not(:has(img, .internal-embed, video)) > br::after
+.markdown-preview-view:not(.no-indent) .markdown-rendered :not(:is(blockquote)) > p:not(:has(img, .internal-embed, video)) > br::after
 {
   content:'\000A\0009\00A0\00A0'; /* Unicode字符编码\0009表示水平制表符，\00A0表示不换行空格，可通过增减、组合搭配这两个Unicode字符来微调回车换行后的首行缩进量 */
 }
