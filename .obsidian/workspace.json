@@ -16,10 +16,21 @@
               "state": {
                 "file": "📚导航页 Home Page.md",
                 "mode": "source",
+                "source": false,
                 "backlinks": true,
-                "source": false
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "pinned": true
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "📚导航页 Home Page"
             }
           },
           {
@@ -31,10 +42,21 @@
               "state": {
                 "file": "📢配置打包仓库的发行说明（可删除）.md",
                 "mode": "source",
+                "source": false,
                 "backlinks": true,
-                "source": false
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "pinned": true
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "📢配置打包仓库的发行说明（可删除）"
             }
           },
           {
@@ -45,9 +67,20 @@
               "state": {
                 "file": "📢启用本仓库之后，你的待办事项（可删除）.md",
                 "mode": "source",
+                "source": false,
                 "backlinks": true,
-                "source": false
-              }
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "📢启用本仓库之后，你的待办事项（可删除）"
             }
           }
         ],
@@ -71,8 +104,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
             }
           },
           {
@@ -87,7 +123,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
             }
           }
         ]
@@ -102,7 +140,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
             }
           },
           {
@@ -110,7 +150,9 @@
             "type": "leaf",
             "state": {
               "type": "starred",
-              "state": {}
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "starred"
             }
           },
           {
@@ -120,8 +162,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
             }
           },
           {
@@ -129,7 +175,9 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ],
@@ -155,7 +203,9 @@
               "type": "file-properties",
               "state": {
                 "file": "📢启用本仓库之后，你的待办事项（可删除）.md"
-              }
+              },
+              "icon": "lucide-info",
+              "title": "📢启用本仓库之后，你的待办事项（可删除）的笔记属性"
             }
           },
           {
@@ -167,7 +217,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
             }
           },
           {
@@ -176,8 +228,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📢启用本仓库之后，你的待办事项（可删除）.md"
-              }
+                "file": "📢启用本仓库之后，你的待办事项（可删除）.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "📢启用本仓库之后，你的待办事项（可删除） 的大纲"
             }
           },
           {
@@ -185,7 +242,9 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
         ],
@@ -228,7 +287,9 @@
                   "scale": 1.3573465037742742,
                   "close": true
                 }
-              }
+              },
+              "icon": "lucide-git-fork",
+              "title": "📢启用本仓库之后，你的待办事项（可删除） 的关系图"
             }
           },
           {
@@ -236,7 +297,9 @@
             "type": "leaf",
             "state": {
               "type": "graph",
-              "state": {}
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
             }
           },
           {
@@ -253,7 +316,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "📢启用本仓库之后，你的待办事项（可删除） 的反向链接列表"
             }
           },
           {
@@ -265,7 +330,9 @@
                 "file": "📢启用本仓库之后，你的待办事项（可删除）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "📢启用本仓库之后，你的待办事项（可删除） 的出链列表"
             }
           },
           {
@@ -277,10 +344,21 @@
               "state": {
                 "file": "🛠️常用工具 My Tools.md",
                 "mode": "preview",
+                "source": false,
                 "backlinks": true,
-                "source": false
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "pinned": true
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "🛠️常用工具 My Tools"
             }
           }
         ],
@@ -292,6 +370,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:新建数据库": false,
       "canvas:新建白板": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
