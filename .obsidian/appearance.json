@@ -16,5 +16,6 @@
   "baseFontSize": 18,
   "cssTheme": "",
   "textFontFamily": "",
-  "interfaceFontFamily": ""
+  "interfaceFontFamily": "",
+  "nativeMenus": false
 }
