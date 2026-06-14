@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📢配置打包仓库的发行说明（可删除）.md",
+                "file": "📢启用本仓库之后，你的待办事项（可删除）.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -80,7 +80,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "📢配置打包仓库的发行说明（可删除）"
+              "title": "📢启用本仓库之后，你的待办事项（可删除）"
             }
           }
         ],
@@ -228,13 +228,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📢配置打包仓库的发行说明（可删除）.md",
+                "file": "📢启用本仓库之后，你的待办事项（可删除）.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "📢配置打包仓库的发行说明（可删除） 的大纲"
+              "title": "📢启用本仓库之后，你的待办事项（可删除） 的大纲"
             }
           },
           {
@@ -390,22 +390,24 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "03e9d4aeda1d60e5",
+  "active": "8dc072b6f0c03391",
   "lastOpenFiles": [
+    "【附件等】/assets/assets/Pasted image 20260614231336.png",
+    "【附件等】/assets/assets",
+    "📢最佳实践：如何利用Beyond Compare将你的现有Obsidian vault升级为我们的预制库（可删除）.md",
+    "📢配置打包仓库的发行说明（可删除）.md",
+    "📢【必看】两种日记模式（可删除）.md",
     "📢启用本仓库之后，你的待办事项（可删除）.md",
     "📚导航页 Home Page.md",
     "🛠️常用工具 My Tools.md",
     "普通文章.md",
-    "📢配置打包仓库的发行说明（可删除）.md",
     "示例文档（可删除）/未命名.md",
     "【附件等】/附件管理规范.md",
     "示例文档（可删除）/26.5.3 📚导航页完全体 可选择使用.md",
-    "📢最佳实践：如何利用Beyond Compare将你的现有Obsidian vault升级为我们的预制库（可删除）.md",
     "示例文档（可删除）/日记/05.03.md",
     "【附件等】/【模板等】/8 todo.md",
     "【附件等】/【模板等】/7 comment.md",
     "【附件等】/【新建模板】/【文章模板】MD.md",
-    "📢【必看】两种日记模式（可删除）.md",
     "【附件等】/【新建模板】/【日记模板】DAILY.md",
     "【附件等】/【新建模板】/【参考模板】REFER-AI.md",
     "【附件等】/【新建模板】/【参考模板】REFER.md",
@@ -417,7 +419,6 @@
     "【附件等】/【模板等】/5 annotation-aside.md",
     "【附件等】/【模板等】/6 ruby.md",
     "【模板等】/edit (simple).md",
-    "示例文档（可删除）/26.4.6 废弃模板/(pin) task (lark & loose-leaf-book).md",
     "示例文档（可删除）/26.4.6 废弃模板",
     "示例文档（可删除）/新建文件夹",
     "示例文档（可删除）/assets/Pasted image 20250205023244.png",
@@ -436,7 +437,6 @@
     "示例文档（可删除）/assets 1",
     "示例文档（可删除）/assets/每日笔记、日程管理、工作复盘——这是我钻研出的 Obsidian 八般武艺 - 少数派.pdf",
     "示例文档（可删除）/日记",
-    "未命名",
-    "【附件等】/pt-serif-pro-cufonfonts.zip"
+    "未命名"
   ]
 }
