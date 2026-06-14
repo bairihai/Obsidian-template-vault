@@ -2,6 +2,7 @@
 cssclasses:
   - mytools
   - hide-metadata
+  - no-indent
 ---
 
 <!--
