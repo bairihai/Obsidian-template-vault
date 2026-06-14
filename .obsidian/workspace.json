@@ -60,7 +60,7 @@
             }
           },
           {
-            "id": "03e9d4aeda1d60e5",
+            "id": "7107013df20b39f3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -386,18 +386,17 @@
       "media-extended:Open media": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false,
-      "card-board:CardBoard": false
+      "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "8dc072b6f0c03391",
+  "active": "7107013df20b39f3",
   "lastOpenFiles": [
+    "📢配置打包仓库的发行说明（可删除）.md",
+    "📢启用本仓库之后，你的待办事项（可删除）.md",
     "【附件等】/assets/assets/Pasted image 20260614231336.png",
     "【附件等】/assets/assets",
     "📢最佳实践：如何利用Beyond Compare将你的现有Obsidian vault升级为我们的预制库（可删除）.md",
-    "📢配置打包仓库的发行说明（可删除）.md",
     "📢【必看】两种日记模式（可删除）.md",
-    "📢启用本仓库之后，你的待办事项（可删除）.md",
     "📚导航页 Home Page.md",
     "🛠️常用工具 My Tools.md",
     "普通文章.md",
@@ -433,7 +432,6 @@
     "assets/Pasted image 20250215113805.png",
     "assets/Pasted image 20250215113210.png",
     "assets/Pasted image 20250215113109.png",
-    "示例文档（可删除）/assets 1/Pasted image 20250215071645.png",
     "示例文档（可删除）/assets 1",
     "示例文档（可删除）/assets/每日笔记、日程管理、工作复盘——这是我钻研出的 Obsidian 八般武艺 - 少数派.pdf",
     "示例文档（可删除）/日记",
