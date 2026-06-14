@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📢启用本仓库之后，你的待办事项（可删除）.md",
+                "file": "📢配置打包仓库的发行说明（可删除）.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -80,7 +80,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "📢启用本仓库之后，你的待办事项（可删除）"
+              "title": "📢配置打包仓库的发行说明（可删除）"
             }
           }
         ],
@@ -228,13 +228,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📢启用本仓库之后，你的待办事项（可删除）.md",
+                "file": "📢配置打包仓库的发行说明（可删除）.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "📢启用本仓库之后，你的待办事项（可删除） 的大纲"
+              "title": "📢配置打包仓库的发行说明（可删除） 的大纲"
             }
           },
           {
@@ -392,6 +392,7 @@
   },
   "active": "03e9d4aeda1d60e5",
   "lastOpenFiles": [
+    "📢启用本仓库之后，你的待办事项（可删除）.md",
     "📚导航页 Home Page.md",
     "🛠️常用工具 My Tools.md",
     "普通文章.md",
@@ -403,7 +404,6 @@
     "示例文档（可删除）/日记/05.03.md",
     "【附件等】/【模板等】/8 todo.md",
     "【附件等】/【模板等】/7 comment.md",
-    "📢启用本仓库之后，你的待办事项（可删除）.md",
     "【附件等】/【新建模板】/【文章模板】MD.md",
     "📢【必看】两种日记模式（可删除）.md",
     "【附件等】/【新建模板】/【日记模板】DAILY.md",
