@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1b83420811b7edb7",
+            "id": "595b75ee2c41c5dc",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📚导航页 Home Page.md",
+                "file": "【附件等】/【仓库基建】/📚导航页 Home Page.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -40,7 +40,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📢配置打包仓库的发行说明（可删除）.md",
+                "file": "示例文档（可删除）/【项目公告栏】/📢配置打包仓库的发行说明（可删除）.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -59,8 +59,7 @@
               "title": "📢配置打包仓库的发行说明（可删除）"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -194,13 +193,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📢配置打包仓库的发行说明（可删除）.md",
+                "file": "【附件等】/【仓库基建】/📚导航页 Home Page.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "📢配置打包仓库的发行说明（可删除） 的大纲"
+              "title": "📚导航页 Home Page 的大纲"
             }
           },
           {
@@ -308,7 +307,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🛠️常用工具 My Tools.md",
+                "file": "【附件等】/【仓库基建】/🛠️常用工具 My Tools.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -356,16 +355,18 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "cf581723eb1261ad",
+  "active": "595b75ee2c41c5dc",
   "lastOpenFiles": [
-    "🛠️常用工具 My Tools.md",
-    "📢配置打包仓库的发行说明（可删除）.md",
-    "📢启用本仓库之后，你的待办事项（可删除）.md",
+    "示例文档（可删除）/【项目公告栏】/📢配置打包仓库的发行说明（可删除）.md",
+    "【附件等】/【仓库基建】/📚导航页 Home Page.md",
+    "示例文档（可删除）/【项目公告栏】/📢最佳实践：如何利用Beyond Compare将你的现有Obsidian vault升级为我们的预制库（可删除）.md",
+    "示例文档（可删除）/【项目公告栏】/📢启用本仓库之后，你的待办事项（可删除）.md",
+    "示例文档（可删除）/【项目公告栏】/📢【必看】两种日记模式（可删除）.md",
+    "示例文档（可删除）/【项目公告栏】",
+    "【附件等】/【仓库基建】",
+    "【附件等】/【仓库基建】/🛠️常用工具 My Tools.md",
     "【附件等】/assets/assets/Pasted image 20260614231336.png",
     "【附件等】/assets/assets",
-    "📢最佳实践：如何利用Beyond Compare将你的现有Obsidian vault升级为我们的预制库（可删除）.md",
-    "📢【必看】两种日记模式（可删除）.md",
-    "📚导航页 Home Page.md",
     "普通文章.md",
     "示例文档（可删除）/未命名.md",
     "【附件等】/附件管理规范.md",
@@ -400,8 +401,6 @@
     "assets/Pasted image 20250215113210.png",
     "assets/Pasted image 20250215113109.png",
     "示例文档（可删除）/assets 1",
-    "示例文档（可删除）/assets/每日笔记、日程管理、工作复盘——这是我钻研出的 Obsidian 八般武艺 - 少数派.pdf",
-    "示例文档（可删除）/日记",
-    "未命名"
+    "示例文档（可删除）/assets/每日笔记、日程管理、工作复盘——这是我钻研出的 Obsidian 八般武艺 - 少数派.pdf"
   ]
 }
